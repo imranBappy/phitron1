@@ -1,0 +1,15 @@
+{
+    "code-runner.executorMap": {
+        "javascript": "node $fileName ",
+        "php": "C:\\php\\php.exe",
+        "python": "python",
+        "perl": "perl",
+        "ruby": "C:\\Ruby23-x64\\bin\\ruby.exe",
+        "go": "go run",
+        "html": "\"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\"",
+        "c": "gcc $fileName -o $fileNameWithoutExt && ./$fileNameWithoutExt < input.txt  > output.txt",
+        "cpp": "g++ $fileName -o $fileNameWithoutExt && ./$fileNameWithoutExt",
+        "java": "java $fileName"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+}

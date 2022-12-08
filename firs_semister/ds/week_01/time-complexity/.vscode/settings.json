@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "algorithm": "c",
+        "bitset": "c",
+        "chrono": "c",
+        "iterator": "c",
+        "xhash": "c",
+        "xtree": "c",
+        "xutility": "c"
+    }
+}

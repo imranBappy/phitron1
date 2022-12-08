@@ -1,0 +1,113 @@
+{
+    "editor.fontSize": 23,
+    "terminal.integrated.fontSize": 17,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.minimap.enabled": false,
+    "tabnine.experimentalAutoImports": true,
+    "explorer.confirmDelete": false,
+    "workbench.iconTheme": "vscode-icons",
+    "cSpell.allowCompoundWords": true,
+    "cSpell.allowedSchemas": [
+        "file",
+        "gist",
+        "sftp",
+        "untitled",
+        "maxlength",
+        "Imran",
+        "Hossen",
+        "Bappy",
+        "imran hossen"
+    ],
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "git.allowForcePush": true,
+    "git.allowNoVerifyCommit": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.autoStash": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.tabCompletion": "on",
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "C_Cpp.addNodeAddonIncludePaths": true,
+    "C_Cpp.clang_format_sortIncludes": true,
+    "C_Cpp.debugger.useBacktickCommandSubstitution": true,
+    "C_Cpp.experimentalFeatures": "Enabled",
+    "C_Cpp.vcFormat.indent.accessSpecifiers": true,
+    "C_Cpp.vcFormat.indent.preserveComments": true,
+    "C_Cpp.vcFormat.newLine.beforeWhileInDoWhile": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.codeLensFontFamily": "Fira Code",
+    "editor.formatOnType": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+    },
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "code-runner.executorMap": {
+        "javascript": "node $fileName ",
+        "php": "php $fileName",
+        "python": "python $fileName < input.txt",
+        "perl": "perl",
+        "ruby": "C:\\Ruby23-x64\\bin\\ruby.exe",
+        "go": "go run",
+        "html": "\"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\"",
+        "c": "gcc $fileName -o out && ./out",
+        "cpp": "g++ $fileName -o out && ./out < input.txt",
+        "java": "javac $fileName && java $fileNameWithoutExt",
+        "csc": "csc $fileName && mono ./$fileNameWithoutExt.exe"
+    },
+    "files.exclude": {
+        "**/*.class": true,
+        "**/out.exe": true
+    },
+    "files.autoSave": "afterDelay",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "npm.keybindingsChangedWarningShown": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": true,
+        "markdown": false
+    },
+    "editor.inlineSuggest.enabled": true,
+    "workbench.colorTheme": "Default Dark+",
+    "debug.onTaskErrors": "debugAnyway",
+    "files.associations": {
+        "*.php": "html"
+    },
+    "git.confirmSync": false,
+    "workbench.editor.untitled.hint": "hidden",
+}

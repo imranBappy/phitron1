@@ -1,0 +1,2 @@
+classmethod vs
+static method

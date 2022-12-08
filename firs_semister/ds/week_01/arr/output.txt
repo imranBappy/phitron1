@@ -1,0 +1,3 @@
+It is diagonal
+It is scaler matrix
+It is identity matrix

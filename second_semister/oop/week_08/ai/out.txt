@@ -1,0 +1,1995 @@
+<tr><td class="infobox-image" colspan="2"><a class="image" href="/wiki/File:IPhone_14_Pro_vector.svg"><img alt="IPhone 14 Pro vector.svg" data-file-height="730" data-file-width="360" decoding="async" height="377" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/IPhone_14_Pro_vector.svg/186px-IPhone_14_Pro_vector.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/IPhone_14_Pro_vector.svg/279px-IPhone_14_Pro_vector.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/IPhone_14_Pro_vector.svg/372px-IPhone_14_Pro_vector.svg.png 2x" width="186"/></a><div class="infobox-caption">The front face of an <a href="/wiki/IPhone_14_Pro" title="IPhone 14 Pro">iPhone 14 Pro</a> in Deep Purple</div></td></tr>
+<tr><th class="infobox-label" scope="row">Developer</th><td class="infobox-data"><a href="/wiki/Apple_Inc." title="Apple Inc.">Apple Inc.</a></td></tr>
+<tr><th class="infobox-label" scope="row">Manufacturer</th><td class="infobox-data"><a href="/wiki/Foxconn" title="Foxconn">Foxconn</a>, <a href="/wiki/Pegatron" title="Pegatron">Pegatron</a>, <a href="/wiki/Wistron" title="Wistron">Wistron</a> <br/>(<a href="/wiki/Contract_manufacturer" title="Contract manufacturer">contract manufacturers</a>)</td></tr>
+<tr><th class="infobox-label" scope="row">Type</th><td class="infobox-data"><a href="/wiki/Smartphone" title="Smartphone">Smartphone</a></td></tr>
+<tr><th class="infobox-label" scope="row">Units sold</th><td class="infobox-data">2.2 billion (as of November 1, 2018)<sup class="reference" id="cite_ref-Lifewire_1-0"><a href="#cite_note-Lifewire-1">[1]</a></sup></td></tr>
+<tr><th class="infobox-label" scope="row"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th><td class="infobox-data"><a href="/wiki/IOS" title="IOS">iOS</a></td></tr>
+<tr><th class="infobox-label" scope="row">Storage</th><td class="infobox-data">64, 128, 256, 512 GB or 1 TB<sup class="reference" id="cite_ref-storageunits_2-0"><a href="#cite_note-storageunits-2">[a]</a></sup> <a href="/wiki/Flash_memory" title="Flash memory">flash memory</a><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[2]</a></sup></td></tr>
+<tr><th class="infobox-label" scope="row">Sound</th><td class="infobox-data"><div class="hlist hlist-separated">
+<ul><li><a href="/wiki/Bluetooth" title="Bluetooth">Bluetooth</a></li>
+<li>stereo speaker (iPhone 7 and up)</li>
+<li>microphone</li>
+<li><a href="/wiki/Lightning_(connector)" title="Lightning (connector)">Lightning</a> port</li></ul>
+</div></td></tr>
+<tr><th class="infobox-label" scope="row">Power</th><td class="infobox-data">Built-in rechargeable <a href="/wiki/Lithium-ion_battery" title="Lithium-ion battery">lithium-ion battery</a></td></tr>
+<tr><th class="infobox-label" scope="row">Online services</th><td class="infobox-data"><div class="hlist hlist-separated">
+<ul><li><a class="mw-redirect" href="/wiki/App_Store_(iOS)" title="App Store (iOS)">App Store</a></li>
+<li><a href="/wiki/Apple_One" title="Apple One">Apple One</a></li>
+<li><a href="/wiki/ICloud" title="ICloud">iCloud</a></li>
+<li><a href="/wiki/Apple_Pay" title="Apple Pay">Apple Pay</a></li></ul>
+</div></td></tr>
+<tr><th class="infobox-label" scope="row">Related</th><td class="infobox-data"><div class="hlist hlist-separated">
+<ul><li><a href="/wiki/IPad" title="IPad">iPad</a></li>
+<li>(<a href="/wiki/List_of_iOS_and_iPadOS_devices" title="List of iOS and iPadOS devices">comparison</a>)</li></ul>
+</div></td></tr>
+<tr><th class="infobox-label" scope="row">Website</th><td class="infobox-data"><span class="url"><a class="external text" href="http://apple.com/iphone/" rel="nofollow">apple<wbr/>.com<wbr/>/iphone<wbr/>/</a></span></td></tr>
+<tr><td class="sidebar-pretitle">This article is part of <a href="/wiki/Category:IPhone" title="Category:IPhone">a series</a> on the</td></tr>
+<tr><th class="sidebar-title-with-pretitle"><a class="mw-selflink selflink">iPhone</a></th></tr>
+<tr><td class="sidebar-content plainlist">
+<div class="hlist hlist-separated">
+<ul><li><a href="/wiki/IPhone_(1st_generation)" title="IPhone (1st generation)">1st</a></li>
+<li><a href="/wiki/IPhone_3G" title="IPhone 3G">3G</a></li>
+<li><a href="/wiki/IPhone_3GS" title="IPhone 3GS">3GS</a></li></ul>
+<hr/>
+<ul><li><a href="/wiki/IPhone_4" title="IPhone 4">4</a></li>
+<li><a href="/wiki/IPhone_4S" title="IPhone 4S">4S</a></li></ul>
+<hr/>
+<ul><li><a href="/wiki/IPhone_5" title="IPhone 5">5</a></li>
+<li><a href="/wiki/IPhone_5C" title="IPhone 5C">5C</a></li>
+<li><a href="/wiki/IPhone_5S" title="IPhone 5S">5S</a></li></ul>
+<hr/>
+<ul><li><a href="/wiki/IPhone_6" title="IPhone 6">6 / 6 Plus</a></li>
+<li><a href="/wiki/IPhone_6S" title="IPhone 6S">6S / 6S Plus</a></li></ul>
+<hr/>
+<ul><li><a href="/wiki/IPhone_7" title="IPhone 7">7 / 7 Plus</a></li>
+<li><a href="/wiki/IPhone_8" title="IPhone 8">8 / 8 Plus</a></li></ul>
+<hr/>
+<ul><li><a href="/wiki/IPhone_X" title="IPhone X">X</a></li>
+<li><a href="/wiki/IPhone_XR" title="IPhone XR">XR</a></li>
+<li><a href="/wiki/IPhone_XS" title="IPhone XS">XS / XS Max</a></li></ul>
+<hr/>
+<ul><li><a href="/wiki/IPhone_11" title="IPhone 11">11</a></li>
+<li><a href="/wiki/IPhone_11_Pro" title="IPhone 11 Pro">11 Pro / 11 Pro Max</a></li></ul>
+<hr/>
+<ul><li><a href="/wiki/IPhone_12" title="IPhone 12">12 / 12 Mini</a></li>
+<li><a href="/wiki/IPhone_12_Pro" title="IPhone 12 Pro">12 Pro / 12 Pro Max</a></li></ul>
+<hr/>
+<ul><li><a href="/wiki/IPhone_13" title="IPhone 13">13 / 13 Mini</a></li>
+<li><a href="/wiki/IPhone_13_Pro" title="IPhone 13 Pro">13 Pro / 13 Pro Max</a></li></ul>
+<hr/>
+<ul><li><a href="/wiki/IPhone_14" title="IPhone 14">14 / 14 Plus</a></li>
+<li><a href="/wiki/IPhone_14_Pro" title="IPhone 14 Pro">14 Pro / 14 Pro Max</a></li></ul>
+<hr/>
+<ul><li><a href="/wiki/IPhone_SE" title="IPhone SE">iPhone SE</a>
+<ul><li><a href="/wiki/IPhone_SE_(1st_generation)" title="IPhone SE (1st generation)">1st</a></li>
+<li><a href="/wiki/IPhone_SE_(2nd_generation)" title="IPhone SE (2nd generation)">2nd</a></li>
+<li><a href="/wiki/IPhone_SE_(3rd_generation)" title="IPhone SE (3rd generation)">3rd</a></li></ul></li></ul>
+</div></td>
+</tr>
+<tr><td class="sidebar-below" style="font-weight:normal; font-style:italic">
+<p><a href="/wiki/List_of_iOS_and_iPadOS_devices#iPhone" title="List of iOS and iPadOS devices">List of iPhone models</a>
+</p>
+<img alt="telephone icon" class="noviewer" data-file-height="722" data-file-width="722" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Telephone_icon_blue_gradient.svg/28px-Telephone_icon_blue_gradient.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Telephone_icon_blue_gradient.svg/42px-Telephone_icon_blue_gradient.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Telephone_icon_blue_gradient.svg/56px-Telephone_icon_blue_gradient.svg.png 2x" width="28"/> <a href="/wiki/Portal:Telephones" title="Portal:Telephones">Telephones portal</a></td></tr>
+<tr>
+<th rowspan="3">model
+</th>
+<th colspan="2">release(d)
+</th>
+<th rowspan="3">discontinued
+</th>
+<th colspan="4">support
+</th>
+<th rowspan="3">launch price (<a href="/wiki/United_States_dollar" title="United States dollar">$US</a>)
+</th></tr>
+<tr>
+<th rowspan="2">with OS
+</th>
+<th rowspan="2">date
+</th>
+<th rowspan="2">ended
+</th>
+<th rowspan="2">final OS
+</th>
+<th colspan="2">lifespan
+</th></tr>
+<tr>
+<th>max
+</th>
+<th>min<sup class="reference" id="cite_ref-61"><a href="#cite_note-61">[b]</a></sup>
+</th></tr>
+<tr style="background:#ececec;">
+<th><a href="/wiki/IPhone_(1st_generation)" title="IPhone (1st generation)">iPhone</a>
+</th>
+<td><a href="/wiki/IPhone_OS_1" title="IPhone OS 1">iPhone OS 1</a>.0
+</td>
+<td>June 29, 2007<span style="display:none"> (<span class="bday dtstart published updated">2007-06-29</span>)</span>
+</td>
+<td>June 9, 2008<span style="display:none"> (<span class="dtend">2008-06-09</span>)</span>
+</td>
+<td>June 20, 2010<span style="display:none"> (<span class="dtend">2010-06-20</span>)</span>
+</td>
+<td><a href="/wiki/IPhone_OS_3" title="IPhone OS 3">iPhone OS 3</a>.1.3
+</td>
+<td>2 years, 11 months
+</td>
+<td><b>2 years</b>
+</td>
+<td>$499/$599<sup class="reference" id="cite_ref-contractrequired_62-0"><a href="#cite_note-contractrequired-62">[c]</a></sup>
+</td></tr>
+<tr style="background:#ececec;">
+<th><a href="/wiki/IPhone_3G" title="IPhone 3G">iPhone 3G</a>
+</th>
+<td><a href="/wiki/IPhone_OS_2" title="IPhone OS 2">iPhone OS 2</a>.0
+</td>
+<td>July 11, 2008<span style="display:none"> (<span class="bday dtstart published updated">2008-07-11</span>)</span>
+</td>
+<td>August 9, 2010<span style="display:none"> (<span class="dtend">2010-08-09</span>)</span>
+</td>
+<td>March 3, 2011<span style="display:none"> (<span class="dtend">2011-03-03</span>)</span>
+</td>
+<td><a href="/wiki/IOS_4" title="IOS 4">iOS 4</a>.2.1
+</td>
+<td>2 years, 7 months
+</td>
+<td><b>6 months</b>
+</td>
+<td rowspan="3">$199/$299<sup class="reference" id="cite_ref-contractrequired_62-1"><a href="#cite_note-contractrequired-62">[c]</a></sup><br/>$599/$699
+</td></tr>
+<tr style="background:#ececec;">
+<th><a href="/wiki/IPhone_3GS" title="IPhone 3GS">iPhone 3GS</a>
+</th>
+<td><a href="/wiki/IPhone_OS_3" title="IPhone OS 3">iPhone OS 3</a>.0
+</td>
+<td>June 19, 2009<span style="display:none"> (<span class="bday dtstart published updated">2009-06-19</span>)</span>
+</td>
+<td>September 12, 2012<span style="display:none"> (<span class="dtend">2012-09-12</span>)</span>
+</td>
+<td>September 18, 2013<span style="display:none"> (<span class="dtend">2013-09-18</span>)</span><br/>(late, single update: February 21, 2014<span style="display:none"> (<span class="dtend">2014-02-21</span>)</span>)
+</td>
+<td><a href="/wiki/IOS_6" title="IOS 6">iOS 6</a>.1.6
+</td>
+<td rowspan="2">4 years, 2 months
+</td>
+<td rowspan="2"><b>1 year</b>
+</td></tr>
+<tr style="background:#ececec;">
+<th><a href="/wiki/IPhone_4" title="IPhone 4">iPhone 4</a>
+</th>
+<td><a href="/wiki/IOS_4" title="IOS 4">iOS 4</a>.0
+</td>
+<td>June 24, 2010<span style="display:none"> (<span class="bday dtstart published updated">2010-06-24</span>)</span>
+</td>
+<td>September 10, 2013<span style="display:none"> (<span class="dtend">2013-09-10</span>)</span>
+</td>
+<td>September 17, 2014<span style="display:none"> (<span class="dtend">2014-09-17</span>)</span>
+</td>
+<td><a href="/wiki/IOS_7" title="IOS 7">iOS 7</a>.1.2
+</td></tr>
+<tr style="background:#ececec;">
+<th><a href="/wiki/IPhone_4S" title="IPhone 4S">iPhone 4S</a>
+</th>
+<td><a href="/wiki/IOS_5" title="IOS 5">iOS 5</a>.0
+</td>
+<td>October 14, 2011<span style="display:none"> (<span class="bday dtstart published updated">2011-10-14</span>)</span>
+</td>
+<td>September 9, 2014<span style="display:none"> (<span class="dtend">2014-09-09</span>)</span>
+</td>
+<td>September 12, 2016<span style="display:none"> (<span class="dtend">2016-09-12</span>)</span><br/>(late, single update: July 22, 2019<span style="display:none"> (<span class="dtend">2019-07-22</span>)</span>)
+</td>
+<td><a href="/wiki/IOS_9" title="IOS 9">iOS 9</a>.3.5<br/>(9.3.6)
+</td>
+<td>4 years, 10 months
+</td>
+<td><b>2 years</b>
+</td>
+<td rowspan="2">$649/$749/$849
+</td></tr>
+<tr style="background:#ececec;">
+<th><a href="/wiki/IPhone_5" title="IPhone 5">iPhone 5</a>
+</th>
+<td><a href="/wiki/IOS_6" title="IOS 6">iOS 6</a>.0
+</td>
+<td>September 21, 2012<span style="display:none"> (<span class="bday dtstart published updated">2012-09-21</span>)</span>
+</td>
+<td>September 10, 2013<span style="display:none"> (<span class="dtend">2013-09-10</span>)</span>
+</td>
+<td>September 18, 2017<span style="display:none"> (<span class="dtend">2017-09-18</span>)</span><br/>(late, single update: July 22, 2019<span style="display:none"> (<span class="dtend">2019-07-22</span>)</span>)
+</td>
+<td><a href="/wiki/IOS_10" title="IOS 10">iOS 10</a>.3.3<br/>(10.3.4)
+</td>
+<td>4 years, 11 months
+</td>
+<td><b>4 years</b>
+</td></tr>
+<tr style="background:#ececec;">
+<th><a href="/wiki/IPhone_5C" title="IPhone 5C">iPhone 5C</a>
+</th>
+<td><a href="/wiki/IOS_7" title="IOS 7">iOS 7</a>.0
+</td>
+<td>September 20, 2013<span style="display:none"> (<span class="bday dtstart published updated">2013-09-20</span>)</span>
+</td>
+<td>September 9, 2015<span style="display:none"> (<span class="dtend">2015-09-09</span>)</span>
+</td>
+<td>September 18, 2017<span style="display:none"> (<span class="dtend">2017-09-18</span>)</span>
+</td>
+<td><a href="/wiki/IOS_10" title="IOS 10">iOS 10</a>.3.3
+</td>
+<td>3 years, 11 months
+</td>
+<td><b>2 years</b>
+</td>
+<td>$549/$649
+</td></tr>
+<tr style="background:#ececec;">
+<th><a href="/wiki/IPhone_5S" title="IPhone 5S">iPhone 5S</a>
+</th>
+<td><a href="/wiki/IOS_7" title="IOS 7">iOS 7</a>.0
+</td>
+<td>September 20, 2013<span style="display:none"> (<span class="bday dtstart published updated">2013-09-20</span>)</span>
+</td>
+<td>March 21, 2016<span style="display:none"> (<span class="dtend">2016-03-21</span>)</span>
+</td>
+<td rowspan="2">September 18, 2019<span style="display:none"> (<span class="dtend">2019-09-18</span>)</span><br/>(late, single update: August 31, 2022<span style="display:none"> (<span class="dtend">2022-08-31</span>)</span>)
+</td>
+<td rowspan="2"><a href="/wiki/IOS_12" title="IOS 12">iOS 12</a>.4.1<br/>(12.5.6)
+</td>
+<td>5 years, 11 months
+</td>
+<td><b>3 years, 5 months</b>
+</td>
+<td>$649/$749/$849
+</td></tr>
+<tr style="background:#ececec;">
+<th><a href="/wiki/IPhone_6" title="IPhone 6">iPhone 6</a> / 6 Plus
+</th>
+<td><a href="/wiki/IOS_8" title="IOS 8">iOS 8</a>.0
+</td>
+<td>September 19, 2014<span style="display:none"> (<span class="bday dtstart published updated">2014-09-19</span>)</span>
+</td>
+<td>September 7, 2016<span style="display:none"> (<span class="dtend">2016-09-07</span>)</span>
+</td>
+<td>4 years, 11 months
+</td>
+<td><b>3 years</b>
+</td>
+<td>$649/$749/$849<br/>Plus:$749/$849/$949
+</td></tr>
+<tr style="background:#F5F3E4;">
+<th><a href="/wiki/IPhone_6S" title="IPhone 6S">iPhone 6S</a> / 6S Plus
+</th>
+<td><a href="/wiki/IOS_9" title="IOS 9">iOS 9</a>.0.1
+</td>
+<td>September 25, 2015<span style="display:none"> (<span class="bday dtstart published updated">2015-09-25</span>)</span>
+</td>
+<td>September 12, 2018<span style="display:none"> (<span class="dtend">2018-09-12</span>)</span>
+</td>
+<td rowspan="3"><i>supported (bug fixes only)</i>
+</td>
+<td rowspan="3"><a href="/wiki/IOS_15" title="IOS 15">iOS 15</a>.7.1
+</td>
+<td>7 years, 1 month
+</td>
+<td><b>4 years, 1 month</b>
+</td>
+<td>$649/$749/$849<br/>Plus:$749/$849/$949
+</td></tr>
+<tr style="background:#F5F3E4;">
+<th><a href="/wiki/IPhone_SE_(1st_generation)" title="IPhone SE (1st generation)">iPhone SE (1st)</a>
+</th>
+<td><a href="/wiki/IOS_9" title="IOS 9">iOS 9</a>.3
+</td>
+<td>March 31, 2016<span style="display:none"> (<span class="bday dtstart published updated">2016-03-31</span>)</span>
+</td>
+<td>September 12, 2018<span style="display:none"> (<span class="dtend">2018-09-12</span>)</span>
+</td>
+<td>6 years, 6 months
+</td>
+<td><b>4 years, 1 month</b>
+</td>
+<td>$399/$499<br/>
+</td></tr>
+<tr style="background:#F5F3E4;">
+<th><a href="/wiki/IPhone_7" title="IPhone 7">iPhone 7</a> / 7 Plus
+</th>
+<td><a href="/wiki/IOS_10" title="IOS 10">iOS 10</a>.0.1
+</td>
+<td>September 16, 2016<span style="display:none"> (<span class="bday dtstart published updated">2016-09-16</span>)</span>
+</td>
+<td>September 10, 2019<span style="display:none"> (<span class="dtend">2019-09-10</span>)</span>
+</td>
+<td>6 years, 1 month
+</td>
+<td><b>3 years, 1 month</b>
+</td>
+<td>$649/$749/$849<br/>Plus:$769/$869/$969
+</td></tr>
+<tr style="background:#c1e6f5;">
+<th><a href="/wiki/IPhone_8" title="IPhone 8">iPhone 8</a> / 8 Plus
+</th>
+<td><a href="/wiki/IOS_11" title="IOS 11">iOS 11</a>.0
+</td>
+<td>September 22, 2017<span style="display:none"> (<span class="bday dtstart published updated">2017-09-22</span>)</span>
+</td>
+<td>April 15, 2020<span style="display:none"> (<span class="dtend">2020-04-15</span>)</span>
+</td>
+<td rowspan="9"><i>current</i>
+</td>
+<td rowspan="9"><i><a href="/wiki/IOS_16" title="IOS 16">latest iOS</a></i>
+</td>
+<td>5 years, 1 month
+</td>
+<td><b>2 years, 7 months</b>
+</td>
+<td>$699/$849<br/>Plus:$799/$949
+</td></tr>
+<tr style="background:#c1e6f5;">
+<th><a href="/wiki/IPhone_X" title="IPhone X">iPhone X</a>
+</th>
+<td><a href="/wiki/IOS_11" title="IOS 11">iOS 11</a>.0.1
+</td>
+<td>November 3, 2017<span style="display:none"> (<span class="bday dtstart published updated">2017-11-03</span>)</span>
+</td>
+<td>September 12, 2018<span style="display:none"> (<span class="dtend">2018-09-12</span>)</span>
+</td>
+<td>5 years
+</td>
+<td><b>4 years, 2 months</b>
+</td>
+<td>$999/$1149
+</td></tr>
+<tr style="background:#c1e6f5;">
+<th><a href="/wiki/IPhone_XR" title="IPhone XR">iPhone XR</a>
+</th>
+<td><a href="/wiki/IOS_12" title="IOS 12">iOS 12</a>.0
+</td>
+<td>October 26, 2018<span style="display:none"> (<span class="bday dtstart published updated">2018-10-26</span>)</span>
+</td>
+<td>September 14, 2021<span style="display:none"> (<span class="dtend">2021-09-14</span>)</span>
+</td>
+<td>4 years
+</td>
+<td><b>1 year, 2 months</b>
+</td>
+<td>$749/$799/$899
+</td></tr>
+<tr style="background:#c1e6f5;">
+<th><a href="/wiki/IPhone_XS" title="IPhone XS">iPhone XS</a> / XS Max
+</th>
+<td><a href="/wiki/IOS_12" title="IOS 12">iOS 12</a>.0
+</td>
+<td>September 21, 2018<span style="display:none"> (<span class="bday dtstart published updated">2018-09-21</span>)</span>
+</td>
+<td>September 10, 2019<span style="display:none"> (<span class="dtend">2019-09-10</span>)</span>
+</td>
+<td>4 years, 2 months
+</td>
+<td><b>3 years, 2 months</b>
+</td>
+<td>$999/$1149/$1349<br/>Max:$1099/$1249/$1449
+</td></tr>
+<tr style="background:#c1e6f5;">
+<th><a href="/wiki/IPhone_11" title="IPhone 11">iPhone 11</a>
+</th>
+<td><a href="/wiki/IOS_13" title="IOS 13">iOS 13</a>.0
+</td>
+<td>September 20, 2019<span style="display:none"> (<span class="bday dtstart published updated">2019-09-20</span>)</span>
+</td>
+<td>September 7, 2022<span style="display:none"> (<span class="dtend">2022-09-07</span>)</span>
+</td>
+<td>3 years, 2 months
+</td>
+<td><b>2 months</b>
+</td>
+<td>$699/$749/$849
+</td></tr>
+<tr style="background:#c1e6f5;">
+<th><a href="/wiki/IPhone_11_Pro" title="IPhone 11 Pro">iPhone 11 Pro</a> / 11 Pro Max
+</th>
+<td><a href="/wiki/IOS_13" title="IOS 13">iOS 13</a>.0
+</td>
+<td>September 20, 2019<span style="display:none"> (<span class="bday dtstart published updated">2019-09-20</span>)</span>
+</td>
+<td>October 13, 2020<span style="display:none"> (<span class="dtend">2020-10-13</span>)</span>
+</td>
+<td>3 years, 2 months
+</td>
+<td><b>2 years, 1 month</b>
+</td>
+<td>$999/$1149/$1349<br/>Max: $1099/$1249/$1449
+</td></tr>
+<tr style="background:#c1e6f5;">
+<th><a href="/wiki/IPhone_SE_(2nd_generation)" title="IPhone SE (2nd generation)">iPhone SE (2nd)</a>
+</th>
+<td><a href="/wiki/IOS_13" title="IOS 13">iOS 13</a>.4
+</td>
+<td>April 24, 2020<span style="display:none"> (<span class="bday dtstart published updated">2020-04-24</span>)</span>
+</td>
+<td>March 8, 2022<span style="display:none"> (<span class="dtend">2022-03-08</span>)</span>
+</td>
+<td>2 years, 6 months
+</td>
+<td><b>8 months</b>
+</td>
+<td>$399/$449/$549
+</td></tr>
+<tr style="background:#c1e6f5;">
+<th><a href="/wiki/IPhone_12" title="IPhone 12">iPhone 12</a> / 12 Mini
+</th>
+<td><a href="/wiki/IOS_14" title="IOS 14">iOS 14</a>.1 (12)<br/><a href="/wiki/IOS_14" title="IOS 14">iOS 14</a>.2 (12 Mini)
+</td>
+<td>October 23, 2020<span style="display:none"> (<span class="bday dtstart published updated">2020-10-23</span>)</span> (12)<br/>November 13, 2020<span style="display:none"> (<span class="bday dtstart published updated">2020-11-13</span>)</span> (12 Mini)
+</td>
+<td>September 7, 2022 (12 mini)
+</td>
+<td>2 years (12)<br/>2 years (12 Mini)
+</td>
+<td><b>2 months</b> (12 Mini)
+</td>
+<td>$829/$879/$979<br/>Mini: $729/$779/$879
+</td></tr>
+<tr style="background:#c1e6f5;">
+<th><a href="/wiki/IPhone_12_Pro" title="IPhone 12 Pro">iPhone 12 Pro</a> / 12 Pro Max
+</th>
+<td><a href="/wiki/IOS_14" title="IOS 14">iOS 14</a>.1 (12 Pro)<br/><a href="/wiki/IOS_14" title="IOS 14">iOS 14</a>.2 (12 Pro Max)
+</td>
+<td>October 23, 2020<span style="display:none"> (<span class="bday dtstart published updated">2020-10-23</span>)</span> (12 Pro)<br/>November 13, 2020<span style="display:none"> (<span class="bday dtstart published updated">2020-11-13</span>)</span> (12 Pro Max)
+</td>
+<td>September 14, 2021<span style="display:none"> (<span class="dtend">2021-09-14</span>)</span>
+</td>
+<td>2 years (12 Pro)<br/>2 years (12 Pro Max)
+</td>
+<td><b>1 year, 2 months</b>
+</td>
+<td>$999/$1099/$1299<br/>Max: $1099/$1199/$1399
+</td></tr>
+<tr style="background:#d4f4b4;">
+<th><a href="/wiki/IPhone_13" title="IPhone 13">iPhone 13</a> / 13 Mini
+</th>
+<td><a href="/wiki/IOS_15" title="IOS 15">iOS 15</a>.0
+</td>
+<td>September 24, 2021<span style="display:none"> (<span class="bday dtstart published updated">2021-09-24</span>)</span>
+</td>
+<td><span style="display:none"> (<span class="dtend"></span>)</span>
+</td>
+<td><i>current</i>
+</td>
+<td><i>latest iOS</i>
+</td>
+<td>1 year, 1 month
+</td>
+<td>
+</td>
+<td>$829/$929/$1129<br/>Mini: $729/$829/$1029
+</td></tr>
+<tr style="background:#c1e6f5;">
+<th><a href="/wiki/IPhone_13_Pro" title="IPhone 13 Pro">iPhone 13 Pro</a> / 13 Pro Max
+</th>
+<td><a href="/wiki/IOS_15" title="IOS 15">iOS 15</a>.0
+</td>
+<td>September 24, 2021<span style="display:none"> (<span class="bday dtstart published updated">2021-09-24</span>)</span>
+</td>
+<td>September 7, 2022<span style="display:none"> (<span class="dtend">2022-09-07</span>)</span>
+</td>
+<td><i>current</i>
+</td>
+<td><i>latest iOS</i>
+</td>
+<td>1 year, 1 month
+</td>
+<td><b>2 months</b>
+</td>
+<td>$999/$1099/$1299/$1499<br/>Max: $1099/$1199/$1399/$1599
+</td></tr>
+<tr style="background:#d4f4b4;">
+<th><a href="/wiki/IPhone_SE_(3rd_generation)" title="IPhone SE (3rd generation)">iPhone SE (3rd)</a>
+</th>
+<td><a href="/wiki/IOS_15" title="IOS 15">iOS 15</a>.4
+</td>
+<td>March 18, 2022<span style="display:none"> (<span class="bday dtstart published updated">2022-03-18</span>)</span>
+</td>
+<td><span style="display:none"> (<span class="dtend"></span>)</span>
+</td>
+<td rowspan="3"><i>current</i>
+</td>
+<td rowspan="3"><i>latest iOS</i>
+</td>
+<td>8 months
+</td>
+<td>
+</td>
+<td>$429/$479/$579
+</td></tr>
+<tr style="background:#d4f4b4;">
+<th><a href="/wiki/IPhone_14" title="IPhone 14">iPhone 14</a> / 14 Plus
+</th>
+<td><a href="/wiki/IOS_16" title="IOS 16">iOS 16</a>.0
+</td>
+<td>September 16, 2022<span style="display:none"> (<span class="bday dtstart published updated">2022-09-16</span>)</span><br/>October 8, 2022<span style="display:none"> (<span class="bday dtstart published updated">2022-10-08</span>)</span> (14 Plus)
+</td>
+<td><span style="display:none"> (<span class="dtend"></span>)</span>
+</td>
+<td>2 months
+</td>
+<td>
+</td>
+<td>$799/$899/$1099<br/>Plus: $899/$999/$1199
+</td></tr>
+<tr style="background:#d4f4b4;">
+<th><a href="/wiki/IPhone_14_Pro" title="IPhone 14 Pro">iPhone 14 Pro</a> / 14 Pro Max
+</th>
+<td><a href="/wiki/IOS_16" title="IOS 16">iOS 16</a>.0
+</td>
+<td>September 16, 2022<span style="display:none"> (<span class="bday dtstart published updated">2022-09-16</span>)</span>
+</td>
+<td><span style="display:none"> (<span class="dtend"></span>)</span>
+</td>
+<td>2 months
+</td>
+<td>
+</td>
+<td>$999/$1099/$1299/$1499<br/>Max: $1099/$1199/$1399/$1599
+</td></tr>
+<tr>
+<td colspan="9">
+<table>
+<tbody><tr>
+<th>Legend:
+</th>
+<td><link href="mw-data:TemplateStyles:r981673959" rel="mw-deduplicated-inline-style"/><span class="legend nowrap"><span class="legend-color mw-no-invert" style="border: 1px solid #AAAAAA;background-color:#ececec; color:black;"> </span> <abbr title="The device is discontinued, and does not receive iOS updates.">Discontinued and unsupported</abbr></span>
+</td>
+<td><link href="mw-data:TemplateStyles:r981673959" rel="mw-deduplicated-inline-style"/><span class="legend nowrap"><span class="legend-color mw-no-invert" style="border: 1px solid #AAAAAA;background-color:#F5F3E4; color:black;"> </span> <abbr title="The device is discontinued, but still receives bug fixes.">Discontinued, bug fixes only</abbr></span>
+</td>
+<td><link href="mw-data:TemplateStyles:r981673959" rel="mw-deduplicated-inline-style"/><span class="legend nowrap"><span class="legend-color mw-no-invert" style="border: 1px solid #AAAAAA;background-color:#c1e6f5; color:black;"> </span> <abbr title="The device is no longer sold, but is still supported and receives all iOS updates.">Discontinued, still supported</abbr></span>
+</td>
+<td><link href="mw-data:TemplateStyles:r981673959" rel="mw-deduplicated-inline-style"/><span class="legend nowrap"><span class="legend-color mw-no-invert" style="border: 1px solid #AAAAAA;background-color:#d4f4b4; color:black;"> </span> <abbr title="The device is currently sold, and receives all iOS updates."><b>Current or still sold</b></abbr></span>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th>Legend:
+</th>
+<td><link href="mw-data:TemplateStyles:r981673959" rel="mw-deduplicated-inline-style"/><span class="legend nowrap"><span class="legend-color mw-no-invert" style="border: 1px solid #AAAAAA;background-color:#ececec; color:black;"> </span> <abbr title="The device is discontinued, and does not receive iOS updates.">Discontinued and unsupported</abbr></span>
+</td>
+<td><link href="mw-data:TemplateStyles:r981673959" rel="mw-deduplicated-inline-style"/><span class="legend nowrap"><span class="legend-color mw-no-invert" style="border: 1px solid #AAAAAA;background-color:#F5F3E4; color:black;"> </span> <abbr title="The device is discontinued, but still receives bug fixes.">Discontinued, bug fixes only</abbr></span>
+</td>
+<td><link href="mw-data:TemplateStyles:r981673959" rel="mw-deduplicated-inline-style"/><span class="legend nowrap"><span class="legend-color mw-no-invert" style="border: 1px solid #AAAAAA;background-color:#c1e6f5; color:black;"> </span> <abbr title="The device is no longer sold, but is still supported and receives all iOS updates.">Discontinued, still supported</abbr></span>
+</td>
+<td><link href="mw-data:TemplateStyles:r981673959" rel="mw-deduplicated-inline-style"/><span class="legend nowrap"><span class="legend-color mw-no-invert" style="border: 1px solid #AAAAAA;background-color:#d4f4b4; color:black;"> </span> <abbr title="The device is currently sold, and receives all iOS updates."><b>Current or still sold</b></abbr></span>
+</td></tr>
+<tr><th class="navbox-title" colspan="3" scope="col"><link href="mw-data:TemplateStyles:r1063604349" rel="mw-deduplicated-inline-style"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:IOS" title="Template:IOS"><abbr style=";;background:none transparent;border:none;box-shadow:none;padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:IOS" title="Template talk:IOS"><abbr style=";;background:none transparent;border:none;box-shadow:none;padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:IOS&amp;action=edit"><abbr style=";;background:none transparent;border:none;box-shadow:none;padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="iOS_and_iOS-based_products" style="font-size:114%;margin:0 4em"><a href="/wiki/IOS" title="IOS">iOS</a> and iOS-based products</div></th></tr>
+<tr><td class="navbox-abovebelow" colspan="3"><div id="*_History_*_Issues_*_Outline">
+<ul><li><a href="/wiki/IOS_version_history" title="IOS version history">History</a></li>
+<li><a href="/wiki/Issues_relating_to_iOS" title="Issues relating to iOS">Issues</a></li>
+<li><a class="mw-redirect" href="/wiki/Outline_of_iOS" title="Outline of iOS">Outline</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_iOS_and_iPadOS_devices" title="List of iOS and iPadOS devices">Hardware</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-selflink selflink">iPhone</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IPhone_(1st_generation)" title="IPhone (1st generation)">1st</a></li>
+<li><a href="/wiki/IPhone_3G" title="IPhone 3G">3G</a></li>
+<li><a href="/wiki/IPhone_3GS" title="IPhone 3GS">3GS</a></li>
+<li><a href="/wiki/IPhone_4" title="IPhone 4">4</a></li>
+<li><a href="/wiki/IPhone_4S" title="IPhone 4S">4S</a></li>
+<li><a href="/wiki/IPhone_5" title="IPhone 5">5</a></li>
+<li><a href="/wiki/IPhone_5C" title="IPhone 5C">5C</a></li>
+<li><a href="/wiki/IPhone_5S" title="IPhone 5S">5S</a></li>
+<li><a href="/wiki/IPhone_6" title="IPhone 6">6 &amp; 6 Plus</a></li>
+<li><a href="/wiki/IPhone_6S" title="IPhone 6S">6S &amp; 6S Plus</a></li>
+<li><a href="/wiki/IPhone_7" title="IPhone 7">7 &amp; 7 Plus</a></li>
+<li><a href="/wiki/IPhone_8" title="IPhone 8">8 &amp; 8 Plus</a></li>
+<li><a href="/wiki/IPhone_X" title="IPhone X">X</a></li>
+<li><a href="/wiki/IPhone_XR" title="IPhone XR">XR</a></li>
+<li><a href="/wiki/IPhone_XS" title="IPhone XS">XS &amp; XS Max</a></li>
+<li><a href="/wiki/IPhone_11" title="IPhone 11">11</a></li>
+<li><a href="/wiki/IPhone_11_Pro" title="IPhone 11 Pro">11 Pro &amp; Pro Max</a></li>
+<li><a href="/wiki/IPhone_12" title="IPhone 12">12 &amp; 12 Mini</a></li>
+<li><a href="/wiki/IPhone_12_Pro" title="IPhone 12 Pro">12 Pro &amp; Pro Max</a></li>
+<li><a href="/wiki/IPhone_13" title="IPhone 13">13 &amp; 13 Mini</a></li>
+<li><a href="/wiki/IPhone_13_Pro" title="IPhone 13 Pro">13 Pro &amp; Pro Max</a></li>
+<li><a href="/wiki/IPhone_14" title="IPhone 14">14 &amp; 14 Plus</a></li>
+<li><a href="/wiki/IPhone_14_Pro" title="IPhone 14 Pro">14 Pro &amp; Pro Max</a></li></ul>
+<ul><li>SE
+<ul><li><a href="/wiki/IPhone_SE_(1st_generation)" title="IPhone SE (1st generation)">1st</a></li>
+<li><a href="/wiki/IPhone_SE_(2nd_generation)" title="IPhone SE (2nd generation)">2nd</a></li>
+<li><a href="/wiki/IPhone_SE_(3rd_generation)" title="IPhone SE (3rd generation)">3rd</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/IPod_Touch" title="IPod Touch">iPod Touch</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IPod_Touch_(1st_generation)" title="IPod Touch (1st generation)">1st</a></li>
+<li><a href="/wiki/IPod_Touch_(2nd_generation)" title="IPod Touch (2nd generation)">2nd</a></li>
+<li><a href="/wiki/IPod_Touch_(3rd_generation)" title="IPod Touch (3rd generation)">3rd</a></li>
+<li><a href="/wiki/IPod_Touch_(4th_generation)" title="IPod Touch (4th generation)">4th</a></li>
+<li><a href="/wiki/IPod_Touch_(5th_generation)" title="IPod Touch (5th generation)">5th</a></li>
+<li><a href="/wiki/IPod_Touch_(6th_generation)" title="IPod Touch (6th generation)">6th</a></li>
+<li><a href="/wiki/IPod_Touch_(7th_generation)" title="IPod Touch (7th generation)">7th</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/IPad" title="IPad">iPad</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IPad_(1st_generation)" title="IPad (1st generation)">1st</a></li>
+<li><a href="/wiki/IPad_2" title="IPad 2">2</a></li>
+<li><a href="/wiki/IPad_(3rd_generation)" title="IPad (3rd generation)">3rd</a></li>
+<li><a href="/wiki/IPad_(4th_generation)" title="IPad (4th generation)">4th</a></li>
+<li><a href="/wiki/IPad_(5th_generation)" title="IPad (5th generation)">5th</a></li>
+<li><a href="/wiki/IPad_(6th_generation)" title="IPad (6th generation)">6th</a></li>
+<li><a href="/wiki/IPad_(7th_generation)" title="IPad (7th generation)">7th</a></li>
+<li><a href="/wiki/IPad_(8th_generation)" title="IPad (8th generation)">8th</a></li>
+<li><a href="/wiki/IPad_(9th_generation)" title="IPad (9th generation)">9th</a></li>
+<li><a href="/wiki/IPad_(10th_generation)" title="IPad (10th generation)">10th</a></li></ul>
+<ul><li><a href="/wiki/IPad_Mini" title="IPad Mini">Mini</a>
+<ul><li><a href="/wiki/IPad_Mini_(1st_generation)" title="IPad Mini (1st generation)">1st</a></li>
+<li><a href="/wiki/IPad_Mini_2" title="IPad Mini 2">2</a></li>
+<li><a href="/wiki/IPad_Mini_3" title="IPad Mini 3">3</a></li>
+<li><a href="/wiki/IPad_Mini_4" title="IPad Mini 4">4</a></li>
+<li><a href="/wiki/IPad_Mini_(5th_generation)" title="IPad Mini (5th generation)">5th</a></li>
+<li><a href="/wiki/IPad_Mini_(6th_generation)" title="IPad Mini (6th generation)">6th</a></li></ul></li>
+<li>Air
+<ul><li><a href="/wiki/IPad_Air_(1st_generation)" title="IPad Air (1st generation)">1st</a></li>
+<li><a href="/wiki/IPad_Air_2" title="IPad Air 2">2</a></li>
+<li><a href="/wiki/IPad_Air_(3rd_generation)" title="IPad Air (3rd generation)">3rd</a></li>
+<li><a href="/wiki/IPad_Air_(4th_generation)" title="IPad Air (4th generation)">4th</a></li>
+<li><a href="/wiki/IPad_Air_(5th_generation)" title="IPad Air (5th generation)">5th</a></li></ul></li>
+<li><a href="/wiki/IPad_Pro" title="IPad Pro">Pro</a>
+<ul><li><a href="/wiki/IPad_Pro_(1st_generation)" title="IPad Pro (1st generation)">1st</a></li>
+<li><a href="/wiki/IPad_Pro_(2nd_generation)" title="IPad Pro (2nd generation)">2nd</a></li>
+<li><a href="/wiki/IPad_Pro_(3rd_generation)" title="IPad Pro (3rd generation)">3rd</a></li>
+<li><a href="/wiki/IPad_Pro_(4th_generation)" title="IPad Pro (4th generation)">4th</a></li>
+<li><a href="/wiki/IPad_Pro_(5th_generation)" title="IPad Pro (5th generation)">5th</a></li>
+<li><a href="/wiki/IPad_Pro_(6th_generation)" title="IPad Pro (6th generation)">6th</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Apple_TV" title="Apple TV">Apple TV</a></li>
+<li><a href="/wiki/Apple_Watch" title="Apple Watch">Apple Watch</a></li>
+<li><a href="/wiki/HomePod" title="HomePod">HomePod</a>
+<ul><li><a href="/wiki/HomePod_Mini" title="HomePod Mini">Mini</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td><td class="noviewer navbox-image" rowspan="4" style="width:1px;padding:0 0 0 2px"><div><a class="image" href="/wiki/File:IOS_wordmark_(2017).svg"><img alt="iOS logo" data-file-height="58" data-file-width="118" decoding="async" height="34" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/IOS_wordmark_%282017%29.svg/70px-IOS_wordmark_%282017%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/IOS_wordmark_%282017%29.svg/105px-IOS_wordmark_%282017%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/IOS_wordmark_%282017%29.svg/140px-IOS_wordmark_%282017%29.svg.png 2x" width="70"/></a></div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-selflink selflink">iPhone</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IPhone_(1st_generation)" title="IPhone (1st generation)">1st</a></li>
+<li><a href="/wiki/IPhone_3G" title="IPhone 3G">3G</a></li>
+<li><a href="/wiki/IPhone_3GS" title="IPhone 3GS">3GS</a></li>
+<li><a href="/wiki/IPhone_4" title="IPhone 4">4</a></li>
+<li><a href="/wiki/IPhone_4S" title="IPhone 4S">4S</a></li>
+<li><a href="/wiki/IPhone_5" title="IPhone 5">5</a></li>
+<li><a href="/wiki/IPhone_5C" title="IPhone 5C">5C</a></li>
+<li><a href="/wiki/IPhone_5S" title="IPhone 5S">5S</a></li>
+<li><a href="/wiki/IPhone_6" title="IPhone 6">6 &amp; 6 Plus</a></li>
+<li><a href="/wiki/IPhone_6S" title="IPhone 6S">6S &amp; 6S Plus</a></li>
+<li><a href="/wiki/IPhone_7" title="IPhone 7">7 &amp; 7 Plus</a></li>
+<li><a href="/wiki/IPhone_8" title="IPhone 8">8 &amp; 8 Plus</a></li>
+<li><a href="/wiki/IPhone_X" title="IPhone X">X</a></li>
+<li><a href="/wiki/IPhone_XR" title="IPhone XR">XR</a></li>
+<li><a href="/wiki/IPhone_XS" title="IPhone XS">XS &amp; XS Max</a></li>
+<li><a href="/wiki/IPhone_11" title="IPhone 11">11</a></li>
+<li><a href="/wiki/IPhone_11_Pro" title="IPhone 11 Pro">11 Pro &amp; Pro Max</a></li>
+<li><a href="/wiki/IPhone_12" title="IPhone 12">12 &amp; 12 Mini</a></li>
+<li><a href="/wiki/IPhone_12_Pro" title="IPhone 12 Pro">12 Pro &amp; Pro Max</a></li>
+<li><a href="/wiki/IPhone_13" title="IPhone 13">13 &amp; 13 Mini</a></li>
+<li><a href="/wiki/IPhone_13_Pro" title="IPhone 13 Pro">13 Pro &amp; Pro Max</a></li>
+<li><a href="/wiki/IPhone_14" title="IPhone 14">14 &amp; 14 Plus</a></li>
+<li><a href="/wiki/IPhone_14_Pro" title="IPhone 14 Pro">14 Pro &amp; Pro Max</a></li></ul>
+<ul><li>SE
+<ul><li><a href="/wiki/IPhone_SE_(1st_generation)" title="IPhone SE (1st generation)">1st</a></li>
+<li><a href="/wiki/IPhone_SE_(2nd_generation)" title="IPhone SE (2nd generation)">2nd</a></li>
+<li><a href="/wiki/IPhone_SE_(3rd_generation)" title="IPhone SE (3rd generation)">3rd</a></li></ul></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/IPod_Touch" title="IPod Touch">iPod Touch</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IPod_Touch_(1st_generation)" title="IPod Touch (1st generation)">1st</a></li>
+<li><a href="/wiki/IPod_Touch_(2nd_generation)" title="IPod Touch (2nd generation)">2nd</a></li>
+<li><a href="/wiki/IPod_Touch_(3rd_generation)" title="IPod Touch (3rd generation)">3rd</a></li>
+<li><a href="/wiki/IPod_Touch_(4th_generation)" title="IPod Touch (4th generation)">4th</a></li>
+<li><a href="/wiki/IPod_Touch_(5th_generation)" title="IPod Touch (5th generation)">5th</a></li>
+<li><a href="/wiki/IPod_Touch_(6th_generation)" title="IPod Touch (6th generation)">6th</a></li>
+<li><a href="/wiki/IPod_Touch_(7th_generation)" title="IPod Touch (7th generation)">7th</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/IPad" title="IPad">iPad</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IPad_(1st_generation)" title="IPad (1st generation)">1st</a></li>
+<li><a href="/wiki/IPad_2" title="IPad 2">2</a></li>
+<li><a href="/wiki/IPad_(3rd_generation)" title="IPad (3rd generation)">3rd</a></li>
+<li><a href="/wiki/IPad_(4th_generation)" title="IPad (4th generation)">4th</a></li>
+<li><a href="/wiki/IPad_(5th_generation)" title="IPad (5th generation)">5th</a></li>
+<li><a href="/wiki/IPad_(6th_generation)" title="IPad (6th generation)">6th</a></li>
+<li><a href="/wiki/IPad_(7th_generation)" title="IPad (7th generation)">7th</a></li>
+<li><a href="/wiki/IPad_(8th_generation)" title="IPad (8th generation)">8th</a></li>
+<li><a href="/wiki/IPad_(9th_generation)" title="IPad (9th generation)">9th</a></li>
+<li><a href="/wiki/IPad_(10th_generation)" title="IPad (10th generation)">10th</a></li></ul>
+<ul><li><a href="/wiki/IPad_Mini" title="IPad Mini">Mini</a>
+<ul><li><a href="/wiki/IPad_Mini_(1st_generation)" title="IPad Mini (1st generation)">1st</a></li>
+<li><a href="/wiki/IPad_Mini_2" title="IPad Mini 2">2</a></li>
+<li><a href="/wiki/IPad_Mini_3" title="IPad Mini 3">3</a></li>
+<li><a href="/wiki/IPad_Mini_4" title="IPad Mini 4">4</a></li>
+<li><a href="/wiki/IPad_Mini_(5th_generation)" title="IPad Mini (5th generation)">5th</a></li>
+<li><a href="/wiki/IPad_Mini_(6th_generation)" title="IPad Mini (6th generation)">6th</a></li></ul></li>
+<li>Air
+<ul><li><a href="/wiki/IPad_Air_(1st_generation)" title="IPad Air (1st generation)">1st</a></li>
+<li><a href="/wiki/IPad_Air_2" title="IPad Air 2">2</a></li>
+<li><a href="/wiki/IPad_Air_(3rd_generation)" title="IPad Air (3rd generation)">3rd</a></li>
+<li><a href="/wiki/IPad_Air_(4th_generation)" title="IPad Air (4th generation)">4th</a></li>
+<li><a href="/wiki/IPad_Air_(5th_generation)" title="IPad Air (5th generation)">5th</a></li></ul></li>
+<li><a href="/wiki/IPad_Pro" title="IPad Pro">Pro</a>
+<ul><li><a href="/wiki/IPad_Pro_(1st_generation)" title="IPad Pro (1st generation)">1st</a></li>
+<li><a href="/wiki/IPad_Pro_(2nd_generation)" title="IPad Pro (2nd generation)">2nd</a></li>
+<li><a href="/wiki/IPad_Pro_(3rd_generation)" title="IPad Pro (3rd generation)">3rd</a></li>
+<li><a href="/wiki/IPad_Pro_(4th_generation)" title="IPad Pro (4th generation)">4th</a></li>
+<li><a href="/wiki/IPad_Pro_(5th_generation)" title="IPad Pro (5th generation)">5th</a></li>
+<li><a href="/wiki/IPad_Pro_(6th_generation)" title="IPad Pro (6th generation)">6th</a></li></ul></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Other</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Apple_TV" title="Apple TV">Apple TV</a></li>
+<li><a href="/wiki/Apple_Watch" title="Apple Watch">Apple Watch</a></li>
+<li><a href="/wiki/HomePod" title="HomePod">HomePod</a>
+<ul><li><a href="/wiki/HomePod_Mini" title="HomePod Mini">Mini</a></li></ul></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Software</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">OS<wbr/></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IPhone_OS_1" title="IPhone OS 1">1</a></li>
+<li><a href="/wiki/IPhone_OS_2" title="IPhone OS 2">2</a></li>
+<li><a href="/wiki/IPhone_OS_3" title="IPhone OS 3">3</a></li>
+<li><a href="/wiki/IOS_4" title="IOS 4">4</a></li>
+<li><a href="/wiki/IOS_5" title="IOS 5">5</a></li>
+<li><a href="/wiki/IOS_6" title="IOS 6">6</a></li>
+<li><a href="/wiki/IOS_7" title="IOS 7">7</a></li>
+<li><a href="/wiki/IOS_8" title="IOS 8">8</a></li>
+<li><a href="/wiki/IOS_9" title="IOS 9">9</a></li>
+<li><a href="/wiki/IOS_10" title="IOS 10">10</a></li>
+<li><a href="/wiki/IOS_11" title="IOS 11">11</a></li>
+<li><a href="/wiki/IOS_12" title="IOS 12">12</a></li>
+<li><a href="/wiki/IOS_13" title="IOS 13">13</a></li>
+<li><a href="/wiki/IOS_14" title="IOS 14">14</a></li>
+<li><a href="/wiki/IOS_15" title="IOS 15">15</a></li>
+<li><a href="/wiki/IOS_16" title="IOS 16">16</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Derived from iOS</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/WatchOS" title="WatchOS">watchOS</a></li>
+<li><a href="/wiki/TvOS" title="TvOS">tvOS</a></li>
+<li><a href="/wiki/IPadOS" title="IPadOS">iPadOS</a>
+<ul><li><a href="/wiki/IPadOS_13" title="IPadOS 13">13</a></li>
+<li><a href="/wiki/IPadOS_14" title="IPadOS 14">14</a></li>
+<li><a href="/wiki/IPadOS_15" title="IPadOS 15">15</a></li>
+<li><a href="/wiki/IPadOS_16" title="IPadOS 16">16</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Features <wbr/></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/AirDrop" title="AirDrop">AirDrop</a></li>
+<li><a href="/wiki/AirPlay" title="AirPlay">AirPlay</a></li>
+<li><a href="/wiki/AirPrint" title="AirPrint">AirPrint</a></li>
+<li><a href="/wiki/CarPlay" title="CarPlay">CarPlay</a></li>
+<li><a class="mw-redirect" href="/wiki/Control_Center_(iOS)" title="Control Center (iOS)">Control Center</a></li>
+<li><a href="/wiki/ITunes" title="ITunes">iTunes</a></li>
+<li><a href="/wiki/Night_Shift_(software)" title="Night Shift (software)">Night Shift</a></li>
+<li><a href="/wiki/Notification_Center" title="Notification Center">Notification Center</a></li>
+<li><a href="/wiki/Shazam_(application)" title="Shazam (application)">Shazam</a></li>
+<li><a href="/wiki/Siri" title="Siri">Siri</a></li>
+<li><a href="/wiki/Spotlight_(software)" title="Spotlight (software)">Spotlight</a></li>
+<li><a href="/wiki/SpringBoard" title="SpringBoard">SpringBoard</a></li>
+<li><a href="/wiki/VoiceOver" title="VoiceOver">VoiceOver</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">SDK &amp; API <wbr/></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IOS_SDK" title="IOS SDK">SDK</a></li>
+<li><a href="/wiki/Cocoa_Touch" title="Cocoa Touch">Cocoa Touch</a></li>
+<li><a href="/wiki/Core_Animation" title="Core Animation">Core Animation</a></li>
+<li><a href="/wiki/HomeKit" title="HomeKit">HomeKit</a></li>
+<li><a href="/wiki/Inter-App_Audio" title="Inter-App Audio">Inter-App Audio</a></li>
+<li><a href="/wiki/WebKit" title="WebKit">WebKit</a></li>
+<li><a class="mw-redirect" href="/wiki/GymKit" title="GymKit">GymKit</a></li>
+<li><a class="mw-redirect" href="/wiki/HealthKit" title="HealthKit">HealthKit</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Pre-installed_iOS_apps" title="Pre-installed iOS apps">Bundled<wbr/> apps</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Apple_Books" title="Apple Books">Books</a></li>
+<li><a href="/wiki/Calculator_(Apple)" title="Calculator (Apple)">Calculator</a></li>
+<li><a href="/wiki/Calendar_(Apple)" title="Calendar (Apple)">Calendar</a></li>
+<li><a class="mw-redirect" href="/wiki/Clock_(iOS)" title="Clock (iOS)">Clock</a></li>
+<li><a href="/wiki/Contacts_(Apple)" title="Contacts (Apple)">Contacts</a></li>
+<li><a href="/wiki/FaceTime" title="FaceTime">FaceTime</a></li>
+<li><a href="/wiki/Files_(Apple)" title="Files (Apple)">Files</a></li>
+<li><a href="/wiki/Find_My" title="Find My">Find My</a></li>
+<li><a href="/wiki/Fitness_(Apple)" title="Fitness (Apple)">Fitness</a></li>
+<li><a href="/wiki/Health_(Apple)" title="Health (Apple)">Health</a></li>
+<li><a href="/wiki/HomeKit" title="HomeKit">Home</a></li>
+<li><a href="/wiki/Apple_Mail" title="Apple Mail">Mail</a></li>
+<li><a href="/wiki/Apple_Maps" title="Apple Maps">Maps</a></li>
+<li><a class="mw-redirect" href="/wiki/Measure_(Apple)" title="Measure (Apple)">Measure</a></li>
+<li><a href="/wiki/Messages_(Apple)" title="Messages (Apple)">Messages</a></li>
+<li><a href="/wiki/Music_(software)" title="Music (software)">Music</a></li>
+<li><a href="/wiki/Apple_News" title="Apple News">News</a></li>
+<li><a href="/wiki/Notes_(Apple)" title="Notes (Apple)">Notes</a></li>
+<li><a href="/wiki/Apple_Photos" title="Apple Photos">Photos</a></li>
+<li><a href="/wiki/Apple_Podcasts" title="Apple Podcasts">Podcasts</a></li>
+<li><a href="/wiki/Reminders_(Apple)" title="Reminders (Apple)">Reminders</a></li>
+<li><a href="/wiki/Safari_(web_browser)" title="Safari (web browser)">Safari</a></li>
+<li><a href="/wiki/Shortcuts_(app)" title="Shortcuts (app)">Shortcuts</a></li>
+<li><a class="mw-redirect" href="/wiki/Stocks_(software)" title="Stocks (software)">Stocks</a></li>
+<li><a href="/wiki/Translate_(Apple)" title="Translate (Apple)">Translate</a></li>
+<li><a href="/wiki/Apple_TV_app" title="Apple TV app">TV</a></li>
+<li><a class="mw-redirect" href="/wiki/Voice_Memos" title="Voice Memos">Voice Memos</a></li>
+<li><a href="/wiki/Apple_Wallet" title="Apple Wallet">Wallet</a></li>
+<li><a href="/wiki/Weather_(Apple)" title="Weather (Apple)">Weather</a></li>
+<li><a href="/wiki/Apple_Watch#Software" title="Apple Watch">Watch</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Discontinued</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Find_My_Friends" title="Find My Friends">Find My Friends</a></li>
+<li><a href="/wiki/Find_My_iPhone" title="Find My iPhone">Find My iPhone</a></li>
+<li><a href="/wiki/Newsstand_(software)" title="Newsstand (software)">Newsstand</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Apple<wbr/> apps</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Classroom_(Apple)" title="Classroom (Apple)">Classroom</a></li>
+<li><a href="/wiki/Clips_(software)" title="Clips (software)">Clips</a></li>
+<li><a href="/wiki/GarageBand" title="GarageBand">GarageBand</a></li>
+<li><a href="/wiki/IMovie" title="IMovie">iMovie</a></li>
+<li><a href="/wiki/IWork" title="IWork">iWork</a>
+<ul><li><a href="/wiki/Keynote_(presentation_software)" title="Keynote (presentation software)">Keynote</a></li>
+<li><a href="/wiki/Numbers_(spreadsheet)" title="Numbers (spreadsheet)">Numbers</a></li>
+<li><a href="/wiki/Pages_(word_processor)" title="Pages (word processor)">Pages</a></li></ul></li>
+<li><a href="/wiki/ITunes_Remote" title="ITunes Remote">iTunes Remote</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Discontinued</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Beats_Music" title="Beats Music">Beats Music</a></li>
+<li><a class="new" href="/w/index.php?title=Cards_(iOS)&amp;action=edit&amp;redlink=1" title="Cards (iOS) (page does not exist)">Cards</a></li>
+<li><a href="/wiki/IPhoto" title="IPhoto">iPhoto</a></li>
+<li><a href="/wiki/Nike%2B" title="Nike+">Nike + iPod</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">OS<wbr/></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IPhone_OS_1" title="IPhone OS 1">1</a></li>
+<li><a href="/wiki/IPhone_OS_2" title="IPhone OS 2">2</a></li>
+<li><a href="/wiki/IPhone_OS_3" title="IPhone OS 3">3</a></li>
+<li><a href="/wiki/IOS_4" title="IOS 4">4</a></li>
+<li><a href="/wiki/IOS_5" title="IOS 5">5</a></li>
+<li><a href="/wiki/IOS_6" title="IOS 6">6</a></li>
+<li><a href="/wiki/IOS_7" title="IOS 7">7</a></li>
+<li><a href="/wiki/IOS_8" title="IOS 8">8</a></li>
+<li><a href="/wiki/IOS_9" title="IOS 9">9</a></li>
+<li><a href="/wiki/IOS_10" title="IOS 10">10</a></li>
+<li><a href="/wiki/IOS_11" title="IOS 11">11</a></li>
+<li><a href="/wiki/IOS_12" title="IOS 12">12</a></li>
+<li><a href="/wiki/IOS_13" title="IOS 13">13</a></li>
+<li><a href="/wiki/IOS_14" title="IOS 14">14</a></li>
+<li><a href="/wiki/IOS_15" title="IOS 15">15</a></li>
+<li><a href="/wiki/IOS_16" title="IOS 16">16</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Derived from iOS</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/WatchOS" title="WatchOS">watchOS</a></li>
+<li><a href="/wiki/TvOS" title="TvOS">tvOS</a></li>
+<li><a href="/wiki/IPadOS" title="IPadOS">iPadOS</a>
+<ul><li><a href="/wiki/IPadOS_13" title="IPadOS 13">13</a></li>
+<li><a href="/wiki/IPadOS_14" title="IPadOS 14">14</a></li>
+<li><a href="/wiki/IPadOS_15" title="IPadOS 15">15</a></li>
+<li><a href="/wiki/IPadOS_16" title="IPadOS 16">16</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr>
+<tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IPhone_OS_1" title="IPhone OS 1">1</a></li>
+<li><a href="/wiki/IPhone_OS_2" title="IPhone OS 2">2</a></li>
+<li><a href="/wiki/IPhone_OS_3" title="IPhone OS 3">3</a></li>
+<li><a href="/wiki/IOS_4" title="IOS 4">4</a></li>
+<li><a href="/wiki/IOS_5" title="IOS 5">5</a></li>
+<li><a href="/wiki/IOS_6" title="IOS 6">6</a></li>
+<li><a href="/wiki/IOS_7" title="IOS 7">7</a></li>
+<li><a href="/wiki/IOS_8" title="IOS 8">8</a></li>
+<li><a href="/wiki/IOS_9" title="IOS 9">9</a></li>
+<li><a href="/wiki/IOS_10" title="IOS 10">10</a></li>
+<li><a href="/wiki/IOS_11" title="IOS 11">11</a></li>
+<li><a href="/wiki/IOS_12" title="IOS 12">12</a></li>
+<li><a href="/wiki/IOS_13" title="IOS 13">13</a></li>
+<li><a href="/wiki/IOS_14" title="IOS 14">14</a></li>
+<li><a href="/wiki/IOS_15" title="IOS 15">15</a></li>
+<li><a href="/wiki/IOS_16" title="IOS 16">16</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Derived from iOS</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/WatchOS" title="WatchOS">watchOS</a></li>
+<li><a href="/wiki/TvOS" title="TvOS">tvOS</a></li>
+<li><a href="/wiki/IPadOS" title="IPadOS">iPadOS</a>
+<ul><li><a href="/wiki/IPadOS_13" title="IPadOS 13">13</a></li>
+<li><a href="/wiki/IPadOS_14" title="IPadOS 14">14</a></li>
+<li><a href="/wiki/IPadOS_15" title="IPadOS 15">15</a></li>
+<li><a href="/wiki/IPadOS_16" title="IPadOS 16">16</a></li></ul></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Features <wbr/></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/AirDrop" title="AirDrop">AirDrop</a></li>
+<li><a href="/wiki/AirPlay" title="AirPlay">AirPlay</a></li>
+<li><a href="/wiki/AirPrint" title="AirPrint">AirPrint</a></li>
+<li><a href="/wiki/CarPlay" title="CarPlay">CarPlay</a></li>
+<li><a class="mw-redirect" href="/wiki/Control_Center_(iOS)" title="Control Center (iOS)">Control Center</a></li>
+<li><a href="/wiki/ITunes" title="ITunes">iTunes</a></li>
+<li><a href="/wiki/Night_Shift_(software)" title="Night Shift (software)">Night Shift</a></li>
+<li><a href="/wiki/Notification_Center" title="Notification Center">Notification Center</a></li>
+<li><a href="/wiki/Shazam_(application)" title="Shazam (application)">Shazam</a></li>
+<li><a href="/wiki/Siri" title="Siri">Siri</a></li>
+<li><a href="/wiki/Spotlight_(software)" title="Spotlight (software)">Spotlight</a></li>
+<li><a href="/wiki/SpringBoard" title="SpringBoard">SpringBoard</a></li>
+<li><a href="/wiki/VoiceOver" title="VoiceOver">VoiceOver</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr>
+<tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/AirDrop" title="AirDrop">AirDrop</a></li>
+<li><a href="/wiki/AirPlay" title="AirPlay">AirPlay</a></li>
+<li><a href="/wiki/AirPrint" title="AirPrint">AirPrint</a></li>
+<li><a href="/wiki/CarPlay" title="CarPlay">CarPlay</a></li>
+<li><a class="mw-redirect" href="/wiki/Control_Center_(iOS)" title="Control Center (iOS)">Control Center</a></li>
+<li><a href="/wiki/ITunes" title="ITunes">iTunes</a></li>
+<li><a href="/wiki/Night_Shift_(software)" title="Night Shift (software)">Night Shift</a></li>
+<li><a href="/wiki/Notification_Center" title="Notification Center">Notification Center</a></li>
+<li><a href="/wiki/Shazam_(application)" title="Shazam (application)">Shazam</a></li>
+<li><a href="/wiki/Siri" title="Siri">Siri</a></li>
+<li><a href="/wiki/Spotlight_(software)" title="Spotlight (software)">Spotlight</a></li>
+<li><a href="/wiki/SpringBoard" title="SpringBoard">SpringBoard</a></li>
+<li><a href="/wiki/VoiceOver" title="VoiceOver">VoiceOver</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">SDK &amp; API <wbr/></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IOS_SDK" title="IOS SDK">SDK</a></li>
+<li><a href="/wiki/Cocoa_Touch" title="Cocoa Touch">Cocoa Touch</a></li>
+<li><a href="/wiki/Core_Animation" title="Core Animation">Core Animation</a></li>
+<li><a href="/wiki/HomeKit" title="HomeKit">HomeKit</a></li>
+<li><a href="/wiki/Inter-App_Audio" title="Inter-App Audio">Inter-App Audio</a></li>
+<li><a href="/wiki/WebKit" title="WebKit">WebKit</a></li>
+<li><a class="mw-redirect" href="/wiki/GymKit" title="GymKit">GymKit</a></li>
+<li><a class="mw-redirect" href="/wiki/HealthKit" title="HealthKit">HealthKit</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr>
+<tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IOS_SDK" title="IOS SDK">SDK</a></li>
+<li><a href="/wiki/Cocoa_Touch" title="Cocoa Touch">Cocoa Touch</a></li>
+<li><a href="/wiki/Core_Animation" title="Core Animation">Core Animation</a></li>
+<li><a href="/wiki/HomeKit" title="HomeKit">HomeKit</a></li>
+<li><a href="/wiki/Inter-App_Audio" title="Inter-App Audio">Inter-App Audio</a></li>
+<li><a href="/wiki/WebKit" title="WebKit">WebKit</a></li>
+<li><a class="mw-redirect" href="/wiki/GymKit" title="GymKit">GymKit</a></li>
+<li><a class="mw-redirect" href="/wiki/HealthKit" title="HealthKit">HealthKit</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Pre-installed_iOS_apps" title="Pre-installed iOS apps">Bundled<wbr/> apps</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Apple_Books" title="Apple Books">Books</a></li>
+<li><a href="/wiki/Calculator_(Apple)" title="Calculator (Apple)">Calculator</a></li>
+<li><a href="/wiki/Calendar_(Apple)" title="Calendar (Apple)">Calendar</a></li>
+<li><a class="mw-redirect" href="/wiki/Clock_(iOS)" title="Clock (iOS)">Clock</a></li>
+<li><a href="/wiki/Contacts_(Apple)" title="Contacts (Apple)">Contacts</a></li>
+<li><a href="/wiki/FaceTime" title="FaceTime">FaceTime</a></li>
+<li><a href="/wiki/Files_(Apple)" title="Files (Apple)">Files</a></li>
+<li><a href="/wiki/Find_My" title="Find My">Find My</a></li>
+<li><a href="/wiki/Fitness_(Apple)" title="Fitness (Apple)">Fitness</a></li>
+<li><a href="/wiki/Health_(Apple)" title="Health (Apple)">Health</a></li>
+<li><a href="/wiki/HomeKit" title="HomeKit">Home</a></li>
+<li><a href="/wiki/Apple_Mail" title="Apple Mail">Mail</a></li>
+<li><a href="/wiki/Apple_Maps" title="Apple Maps">Maps</a></li>
+<li><a class="mw-redirect" href="/wiki/Measure_(Apple)" title="Measure (Apple)">Measure</a></li>
+<li><a href="/wiki/Messages_(Apple)" title="Messages (Apple)">Messages</a></li>
+<li><a href="/wiki/Music_(software)" title="Music (software)">Music</a></li>
+<li><a href="/wiki/Apple_News" title="Apple News">News</a></li>
+<li><a href="/wiki/Notes_(Apple)" title="Notes (Apple)">Notes</a></li>
+<li><a href="/wiki/Apple_Photos" title="Apple Photos">Photos</a></li>
+<li><a href="/wiki/Apple_Podcasts" title="Apple Podcasts">Podcasts</a></li>
+<li><a href="/wiki/Reminders_(Apple)" title="Reminders (Apple)">Reminders</a></li>
+<li><a href="/wiki/Safari_(web_browser)" title="Safari (web browser)">Safari</a></li>
+<li><a href="/wiki/Shortcuts_(app)" title="Shortcuts (app)">Shortcuts</a></li>
+<li><a class="mw-redirect" href="/wiki/Stocks_(software)" title="Stocks (software)">Stocks</a></li>
+<li><a href="/wiki/Translate_(Apple)" title="Translate (Apple)">Translate</a></li>
+<li><a href="/wiki/Apple_TV_app" title="Apple TV app">TV</a></li>
+<li><a class="mw-redirect" href="/wiki/Voice_Memos" title="Voice Memos">Voice Memos</a></li>
+<li><a href="/wiki/Apple_Wallet" title="Apple Wallet">Wallet</a></li>
+<li><a href="/wiki/Weather_(Apple)" title="Weather (Apple)">Weather</a></li>
+<li><a href="/wiki/Apple_Watch#Software" title="Apple Watch">Watch</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Discontinued</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Find_My_Friends" title="Find My Friends">Find My Friends</a></li>
+<li><a href="/wiki/Find_My_iPhone" title="Find My iPhone">Find My iPhone</a></li>
+<li><a href="/wiki/Newsstand_(software)" title="Newsstand (software)">Newsstand</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr>
+<tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Apple_Books" title="Apple Books">Books</a></li>
+<li><a href="/wiki/Calculator_(Apple)" title="Calculator (Apple)">Calculator</a></li>
+<li><a href="/wiki/Calendar_(Apple)" title="Calendar (Apple)">Calendar</a></li>
+<li><a class="mw-redirect" href="/wiki/Clock_(iOS)" title="Clock (iOS)">Clock</a></li>
+<li><a href="/wiki/Contacts_(Apple)" title="Contacts (Apple)">Contacts</a></li>
+<li><a href="/wiki/FaceTime" title="FaceTime">FaceTime</a></li>
+<li><a href="/wiki/Files_(Apple)" title="Files (Apple)">Files</a></li>
+<li><a href="/wiki/Find_My" title="Find My">Find My</a></li>
+<li><a href="/wiki/Fitness_(Apple)" title="Fitness (Apple)">Fitness</a></li>
+<li><a href="/wiki/Health_(Apple)" title="Health (Apple)">Health</a></li>
+<li><a href="/wiki/HomeKit" title="HomeKit">Home</a></li>
+<li><a href="/wiki/Apple_Mail" title="Apple Mail">Mail</a></li>
+<li><a href="/wiki/Apple_Maps" title="Apple Maps">Maps</a></li>
+<li><a class="mw-redirect" href="/wiki/Measure_(Apple)" title="Measure (Apple)">Measure</a></li>
+<li><a href="/wiki/Messages_(Apple)" title="Messages (Apple)">Messages</a></li>
+<li><a href="/wiki/Music_(software)" title="Music (software)">Music</a></li>
+<li><a href="/wiki/Apple_News" title="Apple News">News</a></li>
+<li><a href="/wiki/Notes_(Apple)" title="Notes (Apple)">Notes</a></li>
+<li><a href="/wiki/Apple_Photos" title="Apple Photos">Photos</a></li>
+<li><a href="/wiki/Apple_Podcasts" title="Apple Podcasts">Podcasts</a></li>
+<li><a href="/wiki/Reminders_(Apple)" title="Reminders (Apple)">Reminders</a></li>
+<li><a href="/wiki/Safari_(web_browser)" title="Safari (web browser)">Safari</a></li>
+<li><a href="/wiki/Shortcuts_(app)" title="Shortcuts (app)">Shortcuts</a></li>
+<li><a class="mw-redirect" href="/wiki/Stocks_(software)" title="Stocks (software)">Stocks</a></li>
+<li><a href="/wiki/Translate_(Apple)" title="Translate (Apple)">Translate</a></li>
+<li><a href="/wiki/Apple_TV_app" title="Apple TV app">TV</a></li>
+<li><a class="mw-redirect" href="/wiki/Voice_Memos" title="Voice Memos">Voice Memos</a></li>
+<li><a href="/wiki/Apple_Wallet" title="Apple Wallet">Wallet</a></li>
+<li><a href="/wiki/Weather_(Apple)" title="Weather (Apple)">Weather</a></li>
+<li><a href="/wiki/Apple_Watch#Software" title="Apple Watch">Watch</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Discontinued</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Find_My_Friends" title="Find My Friends">Find My Friends</a></li>
+<li><a href="/wiki/Find_My_iPhone" title="Find My iPhone">Find My iPhone</a></li>
+<li><a href="/wiki/Newsstand_(software)" title="Newsstand (software)">Newsstand</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Apple<wbr/> apps</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Classroom_(Apple)" title="Classroom (Apple)">Classroom</a></li>
+<li><a href="/wiki/Clips_(software)" title="Clips (software)">Clips</a></li>
+<li><a href="/wiki/GarageBand" title="GarageBand">GarageBand</a></li>
+<li><a href="/wiki/IMovie" title="IMovie">iMovie</a></li>
+<li><a href="/wiki/IWork" title="IWork">iWork</a>
+<ul><li><a href="/wiki/Keynote_(presentation_software)" title="Keynote (presentation software)">Keynote</a></li>
+<li><a href="/wiki/Numbers_(spreadsheet)" title="Numbers (spreadsheet)">Numbers</a></li>
+<li><a href="/wiki/Pages_(word_processor)" title="Pages (word processor)">Pages</a></li></ul></li>
+<li><a href="/wiki/ITunes_Remote" title="ITunes Remote">iTunes Remote</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Discontinued</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Beats_Music" title="Beats Music">Beats Music</a></li>
+<li><a class="new" href="/w/index.php?title=Cards_(iOS)&amp;action=edit&amp;redlink=1" title="Cards (iOS) (page does not exist)">Cards</a></li>
+<li><a href="/wiki/IPhoto" title="IPhoto">iPhoto</a></li>
+<li><a href="/wiki/Nike%2B" title="Nike+">Nike + iPod</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr>
+<tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Classroom_(Apple)" title="Classroom (Apple)">Classroom</a></li>
+<li><a href="/wiki/Clips_(software)" title="Clips (software)">Clips</a></li>
+<li><a href="/wiki/GarageBand" title="GarageBand">GarageBand</a></li>
+<li><a href="/wiki/IMovie" title="IMovie">iMovie</a></li>
+<li><a href="/wiki/IWork" title="IWork">iWork</a>
+<ul><li><a href="/wiki/Keynote_(presentation_software)" title="Keynote (presentation software)">Keynote</a></li>
+<li><a href="/wiki/Numbers_(spreadsheet)" title="Numbers (spreadsheet)">Numbers</a></li>
+<li><a href="/wiki/Pages_(word_processor)" title="Pages (word processor)">Pages</a></li></ul></li>
+<li><a href="/wiki/ITunes_Remote" title="ITunes Remote">iTunes Remote</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Discontinued</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Beats_Music" title="Beats Music">Beats Music</a></li>
+<li><a class="new" href="/w/index.php?title=Cards_(iOS)&amp;action=edit&amp;redlink=1" title="Cards (iOS) (page does not exist)">Cards</a></li>
+<li><a href="/wiki/IPhoto" title="IPhoto">iPhoto</a></li>
+<li><a href="/wiki/Nike%2B" title="Nike+">Nike + iPod</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Services</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Apple_Arcade" title="Apple Arcade">Arcade</a></li>
+<li><a href="/wiki/Apple_Card" title="Apple Card">Card</a></li>
+<li>App Store
+<ul><li><a href="/wiki/App_Store_(iOS/iPadOS)" title="App Store (iOS/iPadOS)">iOS / iPadOS</a></li>
+<li><a class="mw-redirect" href="/wiki/App_Store_(watchOS)" title="App Store (watchOS)">watchOS</a></li>
+<li><a href="/wiki/App_Store_(tvOS)" title="App Store (tvOS)">tvOS</a></li></ul></li>
+<li><a href="/wiki/Apple_Music" title="Apple Music">Music</a></li>
+<li><a href="/wiki/FaceTime" title="FaceTime">FaceTime</a></li>
+<li><a href="/wiki/Family_Sharing" title="Family Sharing">Family Sharing</a></li>
+<li><a href="/wiki/Game_Center" title="Game Center">Game Center</a></li>
+<li><a href="/wiki/ICloud" title="ICloud">iCloud</a></li>
+<li><a href="/wiki/IMessage" title="IMessage">iMessage</a></li>
+<li><a href="/wiki/ITunes_Connect" title="ITunes Connect">iTunes Connect</a></li>
+<li><a href="/wiki/ITunes_Store" title="ITunes Store">iTunes Store</a></li>
+<li><a href="/wiki/Apple_News" title="Apple News">News</a>
+<ul><li><a class="mw-redirect" href="/wiki/Apple_News%2B" title="Apple News+">+</a></li></ul></li>
+<li><a class="mw-redirect" href="/wiki/Apple_One_(service)" title="Apple One (service)">One</a></li>
+<li><a href="/wiki/Apple_Pay" title="Apple Pay">Pay</a></li>
+<li><a href="/wiki/Apple_Push_Notification_service" title="Apple Push Notification service">Push Notifications</a></li>
+<li><a href="/wiki/TestFlight" title="TestFlight">TestFlight</a></li>
+<li><a href="/wiki/Apple_TV%2B" title="Apple TV+">TV+</a>
+<ul><li><a class="mw-redirect" href="/wiki/List_of_original_programs_distributed_by_Apple" title="List of original programs distributed by Apple">Shows</a></li></ul></li>
+<li><a href="/wiki/Apple_Wallet" title="Apple Wallet">Wallet</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Discontinued</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IAd" title="IAd">iAd</a></li>
+<li><a href="/wiki/ILife" title="ILife">iLife</a></li>
+<li><a href="/wiki/ITunes_Radio" title="ITunes Radio">iTunes Radio</a></li>
+<li><a href="/wiki/MobileMe" title="MobileMe">MobileMe</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr>
+<tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Apple_Arcade" title="Apple Arcade">Arcade</a></li>
+<li><a href="/wiki/Apple_Card" title="Apple Card">Card</a></li>
+<li>App Store
+<ul><li><a href="/wiki/App_Store_(iOS/iPadOS)" title="App Store (iOS/iPadOS)">iOS / iPadOS</a></li>
+<li><a class="mw-redirect" href="/wiki/App_Store_(watchOS)" title="App Store (watchOS)">watchOS</a></li>
+<li><a href="/wiki/App_Store_(tvOS)" title="App Store (tvOS)">tvOS</a></li></ul></li>
+<li><a href="/wiki/Apple_Music" title="Apple Music">Music</a></li>
+<li><a href="/wiki/FaceTime" title="FaceTime">FaceTime</a></li>
+<li><a href="/wiki/Family_Sharing" title="Family Sharing">Family Sharing</a></li>
+<li><a href="/wiki/Game_Center" title="Game Center">Game Center</a></li>
+<li><a href="/wiki/ICloud" title="ICloud">iCloud</a></li>
+<li><a href="/wiki/IMessage" title="IMessage">iMessage</a></li>
+<li><a href="/wiki/ITunes_Connect" title="ITunes Connect">iTunes Connect</a></li>
+<li><a href="/wiki/ITunes_Store" title="ITunes Store">iTunes Store</a></li>
+<li><a href="/wiki/Apple_News" title="Apple News">News</a>
+<ul><li><a class="mw-redirect" href="/wiki/Apple_News%2B" title="Apple News+">+</a></li></ul></li>
+<li><a class="mw-redirect" href="/wiki/Apple_One_(service)" title="Apple One (service)">One</a></li>
+<li><a href="/wiki/Apple_Pay" title="Apple Pay">Pay</a></li>
+<li><a href="/wiki/Apple_Push_Notification_service" title="Apple Push Notification service">Push Notifications</a></li>
+<li><a href="/wiki/TestFlight" title="TestFlight">TestFlight</a></li>
+<li><a href="/wiki/Apple_TV%2B" title="Apple TV+">TV+</a>
+<ul><li><a class="mw-redirect" href="/wiki/List_of_original_programs_distributed_by_Apple" title="List of original programs distributed by Apple">Shows</a></li></ul></li>
+<li><a href="/wiki/Apple_Wallet" title="Apple Wallet">Wallet</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Discontinued</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IAd" title="IAd">iAd</a></li>
+<li><a href="/wiki/ILife" title="ILife">iLife</a></li>
+<li><a href="/wiki/ITunes_Radio" title="ITunes Radio">iTunes Radio</a></li>
+<li><a href="/wiki/MobileMe" title="MobileMe">MobileMe</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Other</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Apple_silicon" title="Apple silicon">Apple silicon</a></li>
+<li>Controversies
+<ul><li><a href="/wiki/300-page_iPhone_bill" title="300-page iPhone bill">300-page bill</a></li>
+<li><a class="mw-redirect" href="/wiki/Antennagate" title="Antennagate">Antennagate</a></li>
+<li><a href="/wiki/Batterygate" title="Batterygate">Batterygate</a></li>
+<li><a class="mw-redirect" href="/wiki/Bendgate" title="Bendgate">Bendgate</a></li>
+<li><a href="/wiki/IOS_jailbreaking" title="IOS jailbreaking">Jailbreaking</a></li></ul></li>
+<li><a href="/wiki/FairPlay" title="FairPlay">FairPlay</a></li>
+<li><a href="/wiki/List_of_free_and_open-source_iOS_applications" title="List of free and open-source iOS applications">Free and open-source apps</a></li>
+<li><a href="/wiki/List_of_iOS_games" title="List of iOS games">Games</a></li>
+<li><a href="/wiki/IFund" title="IFund">iFund</a></li>
+<li><a href="/wiki/History_of_the_iPhone" title="History of the iPhone">iPhone history</a></li>
+<li><a href="/wiki/IPhone_hardware" title="IPhone hardware">iPhone hardware</a></li>
+<li><a href="/wiki/Metal_(API)" title="Metal (API)">Metal</a></li>
+<li><a href="/wiki/Swift_(programming_language)" title="Swift (programming language)">Swift</a></li>
+<li><a href="/wiki/Worldwide_Developers_Conference" title="Worldwide Developers Conference">WWDC</a></li></ul>
+</div></td></tr>
+<tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><i>Italics</i> denote upcoming products</li>
+<li><img alt="" class="noviewer" data-file-height="185" data-file-width="180" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:IOS" title="Category:IOS">Category</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-title" colspan="2" scope="col"><link href="mw-data:TemplateStyles:r1063604349" rel="mw-deduplicated-inline-style"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Apple_hardware_since_1998" title="Template:Apple hardware since 1998"><abbr style=";;background:none transparent;border:none;box-shadow:none;padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Apple_hardware_since_1998" title="Template talk:Apple hardware since 1998"><abbr style=";;background:none transparent;border:none;box-shadow:none;padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Apple_hardware_since_1998&amp;action=edit"><abbr style=";;background:none transparent;border:none;box-shadow:none;padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Apple_hardware_since_1998" style="font-size:114%;margin:0 4em"><a href="/wiki/Apple_Inc." title="Apple Inc.">Apple</a> hardware since 1998</div></th></tr>
+<tr><td class="navbox-abovebelow" colspan="2"><div id="*_List_of_iOS_and_iPadOS_devices">
+<ul><li><a href="/wiki/List_of_iOS_and_iPadOS_devices" title="List of iOS and iPadOS devices">List of iOS and iPadOS devices</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Desktops and tower computers</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/EMac" title="EMac">eMac</a></li>
+<li><a href="/wiki/IMac" title="IMac">iMac</a>
+<ul><li><a href="/wiki/IMac_G3" title="IMac G3">G3</a></li>
+<li><a href="/wiki/IMac_G4" title="IMac G4">G4</a></li>
+<li><a href="/wiki/IMac_G5" title="IMac G5">G5</a></li>
+<li><a href="/wiki/IMac_(Intel-based)" title="IMac (Intel-based)">Intel-based</a></li>
+<li><a href="/wiki/IMac_(Apple_silicon)" title="IMac (Apple silicon)">Apple silicon</a></li>
+<li><a href="/wiki/IMac_Pro" title="IMac Pro">iMac Pro</a></li></ul></li>
+<li><a href="/wiki/Mac_Mini" title="Mac Mini">Mac Mini</a></li>
+<li><a href="/wiki/Mac_Pro" title="Mac Pro">Mac Pro</a></li>
+<li><a href="/wiki/Mac_Studio" title="Mac Studio">Mac Studio</a></li>
+<li><a href="/wiki/Power_Macintosh" title="Power Macintosh">Power Mac</a>
+<ul><li><a href="/wiki/Power_Macintosh_G3" title="Power Macintosh G3">G3</a></li>
+<li><a href="/wiki/Power_Mac_G4" title="Power Mac G4">G4</a></li>
+<li><a href="/wiki/Power_Mac_G4_Cube" title="Power Mac G4 Cube">G4 Cube</a></li>
+<li><a href="/wiki/Power_Mac_G5" title="Power Mac G5">G5</a></li></ul></li>
+<li><a href="/wiki/Xserve" title="Xserve">Xserve</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Laptops</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IBook" title="IBook">iBook</a></li>
+<li><a href="/wiki/MacBook" title="MacBook">MacBook</a>
+<ul><li><a href="/wiki/MacBook_(2006%E2%80%932012)" title="MacBook (20062012)">20062012</a></li>
+<li><a href="/wiki/MacBook_(2015%E2%80%932019)" title="MacBook (20152019)">20152019</a></li></ul></li>
+<li><a href="/wiki/MacBook_Air" title="MacBook Air">MacBook Air</a>
+<ul><li><a href="/wiki/MacBook_Air_(Intel-based)" title="MacBook Air (Intel-based)">Intel-based</a></li>
+<li><a href="/wiki/MacBook_Air_(Apple_silicon)" title="MacBook Air (Apple silicon)">Apple silicon</a></li></ul></li>
+<li><a href="/wiki/MacBook_Pro" title="MacBook Pro">MacBook Pro</a>
+<ul><li><a href="/wiki/MacBook_Pro_(Intel-based)" title="MacBook Pro (Intel-based)">Intel-based</a></li>
+<li><a href="/wiki/MacBook_Pro_(Apple_silicon)" title="MacBook Pro (Apple silicon)">Apple silicon</a></li></ul></li>
+<li><a href="/wiki/PowerBook" title="PowerBook">PowerBook</a>
+<ul><li><a href="/wiki/PowerBook_G3" title="PowerBook G3">G3</a></li>
+<li><a href="/wiki/PowerBook_G4" title="PowerBook G4">G4</a></li></ul></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Smartphones</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a class="mw-selflink selflink">iPhone</a>
+<ul><li><a href="/wiki/IPhone_(1st_generation)" title="IPhone (1st generation)">2G</a></li>
+<li><a href="/wiki/IPhone_3G" title="IPhone 3G">3G</a></li>
+<li><a href="/wiki/IPhone_3GS" title="IPhone 3GS">3GS</a></li>
+<li><a href="/wiki/IPhone_4" title="IPhone 4">4</a></li>
+<li><a href="/wiki/IPhone_4S" title="IPhone 4S">4S</a></li>
+<li><a href="/wiki/IPhone_5" title="IPhone 5">5</a></li>
+<li><a href="/wiki/IPhone_5C" title="IPhone 5C">5C</a></li>
+<li><a href="/wiki/IPhone_5S" title="IPhone 5S">5S</a></li>
+<li><a href="/wiki/IPhone_6" title="IPhone 6">6, 6 Plus</a></li>
+<li><a href="/wiki/IPhone_6S" title="IPhone 6S">6S, 6S Plus</a></li>
+<li><a href="/wiki/IPhone_7" title="IPhone 7">7, 7 Plus</a></li>
+<li><a href="/wiki/IPhone_8" title="IPhone 8">8, 8 Plus</a></li>
+<li><a href="/wiki/IPhone_X" title="IPhone X">X</a></li>
+<li><a href="/wiki/IPhone_XS" title="IPhone XS">XS, XS Max</a></li>
+<li><a href="/wiki/IPhone_XR" title="IPhone XR">XR</a></li>
+<li><a href="/wiki/IPhone_11" title="IPhone 11">11</a></li>
+<li><a href="/wiki/IPhone_11_Pro" title="IPhone 11 Pro">11 Pro, Pro Max</a></li>
+<li><a href="/wiki/IPhone_12" title="IPhone 12">12, 12 Mini</a></li>
+<li><a href="/wiki/IPhone_12_Pro" title="IPhone 12 Pro">12 Pro, Pro Max</a></li>
+<li><a href="/wiki/IPhone_13" title="IPhone 13">13, 13 Mini</a></li>
+<li><a href="/wiki/IPhone_13_Pro" title="IPhone 13 Pro">13 Pro, Pro Max</a></li>
+<li><a href="/wiki/IPhone_14" title="IPhone 14">14, 14 Plus</a></li>
+<li><a href="/wiki/IPhone_14_Pro" title="IPhone 14 Pro">14 Pro, Pro Max</a></li></ul></li>
+<li>iPhone SE
+<ul><li><a href="/wiki/IPhone_SE_(1st_generation)" title="IPhone SE (1st generation)">1st</a></li>
+<li><a href="/wiki/IPhone_SE_(2nd_generation)" title="IPhone SE (2nd generation)">2nd</a></li>
+<li><a href="/wiki/IPhone_SE_(3rd_generation)" title="IPhone SE (3rd generation)">3rd</a></li></ul></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Tablets</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IPad" title="IPad">iPad</a>
+<ul><li><a href="/wiki/IPad_(1st_generation)" title="IPad (1st generation)">1st</a></li>
+<li><a href="/wiki/IPad_2" title="IPad 2">2</a></li>
+<li><a href="/wiki/IPad_(3rd_generation)" title="IPad (3rd generation)">3rd</a></li>
+<li><a href="/wiki/IPad_(4th_generation)" title="IPad (4th generation)">4th</a></li>
+<li><a href="/wiki/IPad_(5th_generation)" title="IPad (5th generation)">5th</a></li>
+<li><a href="/wiki/IPad_(6th_generation)" title="IPad (6th generation)">6th</a></li>
+<li><a href="/wiki/IPad_(7th_generation)" title="IPad (7th generation)">7th</a></li>
+<li><a href="/wiki/IPad_(8th_generation)" title="IPad (8th generation)">8th</a></li>
+<li><a href="/wiki/IPad_(9th_generation)" title="IPad (9th generation)">9th</a></li>
+<li><a href="/wiki/IPad_(10th_generation)" title="IPad (10th generation)">10th</a></li></ul></li>
+<li><a href="/wiki/IPad_Mini" title="IPad Mini">iPad Mini</a>
+<ul><li><a href="/wiki/IPad_Mini_(1st_generation)" title="IPad Mini (1st generation)">1st</a></li>
+<li><a href="/wiki/IPad_Mini_2" title="IPad Mini 2">2</a></li>
+<li><a href="/wiki/IPad_Mini_3" title="IPad Mini 3">3</a></li>
+<li><a href="/wiki/IPad_Mini_4" title="IPad Mini 4">4</a></li>
+<li><a href="/wiki/IPad_Mini_(5th_generation)" title="IPad Mini (5th generation)">5th</a></li>
+<li><a href="/wiki/IPad_Mini_(6th_generation)" title="IPad Mini (6th generation)">6th</a></li></ul></li>
+<li><a class="mw-redirect" href="/wiki/IPad_Air" title="IPad Air">iPad Air</a>
+<ul><li><a href="/wiki/IPad_Air_(1st_generation)" title="IPad Air (1st generation)">1st</a></li>
+<li><a href="/wiki/IPad_Air_2" title="IPad Air 2">2</a></li>
+<li><a href="/wiki/IPad_Air_(3rd_generation)" title="IPad Air (3rd generation)">3rd</a></li>
+<li><a href="/wiki/IPad_Air_(4th_generation)" title="IPad Air (4th generation)">4th</a></li>
+<li><a href="/wiki/IPad_Air_(5th_generation)" title="IPad Air (5th generation)">5th</a></li></ul></li>
+<li><a href="/wiki/IPad_Pro" title="IPad Pro">iPad Pro</a>
+<ul><li><a href="/wiki/IPad_Pro_(1st_generation)" title="IPad Pro (1st generation)">1st</a></li>
+<li><a href="/wiki/IPad_Pro_(2nd_generation)" title="IPad Pro (2nd generation)">2nd</a></li>
+<li><a href="/wiki/IPad_Pro_(3rd_generation)" title="IPad Pro (3rd generation)">3rd</a></li>
+<li><a href="/wiki/IPad_Pro_(4th_generation)" title="IPad Pro (4th generation)">4th</a></li>
+<li><a href="/wiki/IPad_Pro_(5th_generation)" title="IPad Pro (5th generation)">5th</a></li>
+<li><a href="/wiki/IPad_Pro_(6th_generation)" title="IPad Pro (6th generation)">6th</a></li></ul></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Other consumer electronics</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Apple_TV" title="Apple TV">Apple TV</a></li>
+<li><a href="/wiki/Apple_Watch" title="Apple Watch">Apple Watch</a></li>
+<li><a href="/wiki/Apple_displays" title="Apple displays">Displays</a>
+<ul><li><a href="/wiki/Apple_Studio_Display_(1998%E2%80%932004)" title="Apple Studio Display (19982004)">Studio Display (19982004)</a></li>
+<li><a href="/wiki/Apple_Cinema_Display" title="Apple Cinema Display">Cinema Display</a></li>
+<li><a href="/wiki/Apple_Thunderbolt_Display" title="Apple Thunderbolt Display">Thunderbolt Display</a></li>
+<li><a href="/wiki/Pro_Display_XDR" title="Pro Display XDR">Pro Display XDR</a></li>
+<li><a href="/wiki/Apple_Studio_Display" title="Apple Studio Display">Studio Display</a></li></ul></li>
+<li><a href="/wiki/HomePod" title="HomePod">HomePod</a>
+<ul><li><a href="/wiki/HomePod_Mini" title="HomePod Mini">Mini</a></li></ul></li>
+<li><a href="/wiki/IPod" title="IPod">iPod</a>
+<ul><li><a href="/wiki/IPod_Classic" title="IPod Classic">Classic</a></li>
+<li><a href="/wiki/IPod_Mini" title="IPod Mini">Mini</a></li>
+<li><a href="/wiki/IPod%2BHP" title="IPod+HP">iPod+HP</a></li>
+<li><a href="/wiki/IPod_Shuffle" title="IPod Shuffle">Shuffle</a></li>
+<li><a href="/wiki/IPod_Nano" title="IPod Nano">Nano</a></li>
+<li><a href="/wiki/IPod_Touch" title="IPod Touch">Touch</a>
+<ul><li><a href="/wiki/IPod_Touch_(1st_generation)" title="IPod Touch (1st generation)">1st</a></li>
+<li><a href="/wiki/IPod_Touch_(2nd_generation)" title="IPod Touch (2nd generation)">2nd</a></li>
+<li><a href="/wiki/IPod_Touch_(3rd_generation)" title="IPod Touch (3rd generation)">3rd</a></li>
+<li><a href="/wiki/IPod_Touch_(4th_generation)" title="IPod Touch (4th generation)">4th</a></li>
+<li><a href="/wiki/IPod_Touch_(5th_generation)" title="IPod Touch (5th generation)">5th</a></li>
+<li><a href="/wiki/IPod_Touch_(6th_generation)" title="IPod Touch (6th generation)">6th</a></li>
+<li><a href="/wiki/IPod_Touch_(7th_generation)" title="IPod Touch (7th generation)">7th</a></li></ul></li></ul></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Accessories</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/AirPods" title="AirPods">AirPods</a>
+<ul><li><a href="/wiki/AirPods_Pro" title="AirPods Pro">Pro</a></li>
+<li><a href="/wiki/AirPods_Max" title="AirPods Max">Max</a></li></ul></li>
+<li><a href="/wiki/AirPort" title="AirPort">AirPort</a>
+<ul><li><a href="/wiki/AirPort_Express" title="AirPort Express">Express</a></li>
+<li><a href="/wiki/AirPort_Extreme" title="AirPort Extreme">Extreme</a></li>
+<li><a href="/wiki/AirPort_Time_Capsule" title="AirPort Time Capsule">Time Capsule</a></li></ul></li>
+<li><a href="/wiki/AirPower_(Apple)" title="AirPower (Apple)">AirPower</a> (canceled)</li>
+<li><a href="/wiki/AirTag" title="AirTag">AirTag</a></li>
+<li><a href="/wiki/Apple_headphones" title="Apple headphones">Headphones</a></li>
+<li><a href="/wiki/List_of_iPad_accessories" title="List of iPad accessories">iPad</a>
+<ul><li><a href="/wiki/Apple_Pencil" title="Apple Pencil">Pencil</a></li>
+<li><a href="/wiki/Smart_Keyboard" title="Smart Keyboard">Smart Keyboard</a></li>
+<li><a href="/wiki/Magic_Keyboard_for_iPad" title="Magic Keyboard for iPad">Magic Keyboard</a></li></ul></li>
+<li>iPod
+<ul><li><a href="/wiki/IPod_click_wheel" title="IPod click wheel">Click Wheel</a></li>
+<li><a href="/wiki/Nike%2B" title="Nike+">Nike+</a></li>
+<li><a href="/wiki/IPod_Socks" title="IPod Socks">Socks</a></li></ul></li>
+<li><a href="/wiki/ISight" title="ISight">iSight</a></li>
+<li><a href="/wiki/Apple_keyboards" title="Apple keyboards">Keyboard</a>
+<ul><li><a href="/wiki/Apple_Wireless_Keyboard" title="Apple Wireless Keyboard">Wireless</a></li>
+<li><a href="/wiki/Magic_Keyboard_(Mac)" title="Magic Keyboard (Mac)">Magic</a></li></ul></li>
+<li><a href="/wiki/Apple_pointing_devices" title="Apple pointing devices">Mouse and trackpad</a>
+<ul><li><a href="/wiki/Apple_USB_Mouse" title="Apple USB Mouse">USB</a></li>
+<li><a href="/wiki/Apple_Mighty_Mouse" title="Apple Mighty Mouse">Mighty</a></li>
+<li><a href="/wiki/Magic_Mouse" title="Magic Mouse">Magic</a></li>
+<li><a href="/wiki/Magic_Trackpad_2" title="Magic Trackpad 2">Magic Trackpad 2</a></li></ul></li>
+<li><a href="/wiki/Apple_Polishing_Cloth" title="Apple Polishing Cloth">Polishing Cloth</a></li>
+<li><a href="/wiki/Apple_Remote" title="Apple Remote">Remote</a>
+<ul><li><a href="/wiki/Siri_Remote" title="Siri Remote">Siri Remote</a></li></ul></li>
+<li><a href="/wiki/Apple_speakers" title="Apple speakers">Speakers</a>
+<ul><li><a href="/wiki/IPod_Hi-Fi" title="IPod Hi-Fi">Hi-Fi</a></li>
+<li><a href="/wiki/SoundSticks" title="SoundSticks">SoundSticks</a></li></ul></li>
+<li><a href="/wiki/SuperDrive" title="SuperDrive">SuperDrive</a></li>
+<li><a href="/wiki/Apple_USB_Modem" title="Apple USB Modem">USB Modem</a></li>
+<li><a href="/wiki/Xserve_RAID" title="Xserve RAID">Xserve RAID</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-title" colspan="2" scope="col"><link href="mw-data:TemplateStyles:r1063604349" rel="mw-deduplicated-inline-style"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Apple_Inc." title="Template:Apple Inc."><abbr style=";;background:none transparent;border:none;box-shadow:none;padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Apple_Inc." title="Template talk:Apple Inc."><abbr style=";;background:none transparent;border:none;box-shadow:none;padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Apple_Inc.&amp;action=edit"><abbr style=";;background:none transparent;border:none;box-shadow:none;padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Apple_Inc." style="font-size:114%;margin:0 4em"><a href="/wiki/Apple_Inc." title="Apple Inc.">Apple Inc.</a></div></th></tr>
+<tr><td class="navbox-abovebelow" colspan="2"><div id="HistoryOutlineTimeline_of_products"><div class="hlist hlist-separated"><ul><li><a href="/wiki/History_of_Apple_Inc." title="History of Apple Inc.">History</a></li><li><a href="/wiki/Outline_of_Apple_Inc." title="Outline of Apple Inc.">Outline</a></li><li><a href="/wiki/Timeline_of_Apple_Inc._products" title="Timeline of Apple Inc. products">Timeline of products</a></li></ul></div></div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Apple_Inc._products" title="Category:Apple Inc. products">Products</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Apple_Inc._hardware" title="Category:Apple Inc. hardware">Hardware</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a class="mw-selflink selflink">iPhone</a>
+<ul><li><a href="/wiki/IPhone_hardware" title="IPhone hardware">Hardware</a></li>
+<li><a href="/wiki/History_of_the_iPhone" title="History of the iPhone">History</a></li></ul></li>
+<li><a href="/wiki/Apple_TV" title="Apple TV">TV</a></li>
+<li><a href="/wiki/Apple_Watch" title="Apple Watch">Watch</a></li>
+<li><a href="/wiki/AirPods" title="AirPods">AirPods</a>
+<ul><li><a href="/wiki/AirPods_Pro" title="AirPods Pro">Pro</a></li>
+<li><a href="/wiki/AirPods_Max" title="AirPods Max">Max</a></li></ul></li>
+<li><a href="/wiki/AirTag" title="AirTag">AirTag</a></li>
+<li><a href="/wiki/Beats_Electronics" title="Beats Electronics">Beats</a>
+<ul><li><a href="/wiki/Beats_Pill" title="Beats Pill">Pill</a></li>
+<li><a class="mw-redirect" href="/wiki/Powerbeats_Pro" title="Powerbeats Pro">Powerbeats Pro</a></li></ul></li>
+<li><a href="/wiki/HomePod" title="HomePod">HomePod</a>
+<ul><li><a href="/wiki/HomePod_Mini" title="HomePod Mini">Mini</a></li></ul></li>
+<li><a href="/wiki/Apple_silicon" title="Apple silicon">Silicon</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Mac_(computer)" title="Mac (computer)">Mac</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IMac" title="IMac">iMac</a>
+<ul><li><i><a href="/wiki/IMac_Pro" title="IMac Pro">Pro</a></i></li></ul></li>
+<li><a href="/wiki/MacBook" title="MacBook">MacBook</a>
+<ul><li><a href="/wiki/MacBook_Air" title="MacBook Air">Air</a></li>
+<li><a href="/wiki/MacBook_Pro" title="MacBook Pro">Pro</a></li></ul></li>
+<li><a href="/wiki/Mac_Mini" title="Mac Mini">Mini</a></li>
+<li><a href="/wiki/Mac_Studio" title="Mac Studio">Studio</a></li>
+<li><a href="/wiki/Mac_Pro" title="Mac Pro">Pro</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/IPod" title="IPod">iPod</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/IPod_Classic" title="IPod Classic">Classic</a></i></li>
+<li><i><a href="/wiki/IPod_Mini" title="IPod Mini">Mini</a></i></li>
+<li><i><a href="/wiki/IPod_Nano" title="IPod Nano">Nano</a></i></li>
+<li><i><a href="/wiki/IPod_Shuffle" title="IPod Shuffle">Shuffle</a></i></li>
+<li><i><a href="/wiki/IPod_Touch" title="IPod Touch">Touch</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/IPad" title="IPad">iPad</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IPad_Mini" title="IPad Mini">Mini</a></li>
+<li><a class="mw-redirect" href="/wiki/IPad_Air" title="IPad Air">Air</a></li>
+<li><a href="/wiki/IPad_Pro" title="IPad Pro">Pro</a></li>
+<li><a href="/wiki/List_of_iPad_accessories" title="List of iPad accessories">Accessories</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Apple_Inc._software" title="Category:Apple Inc. software">Software</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Operatingsystems" scope="row" style="width:1%"><a href="/wiki/List_of_Apple_operating_systems" title="List of Apple operating systems">Operating<br/>systems</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IOS" title="IOS">iOS</a> / <a href="/wiki/IPadOS" title="IPadOS">iPadOS</a>
+<ul><li><a href="/wiki/List_of_iOS_and_iPadOS_devices" title="List of iOS and iPadOS devices">Devices</a></li>
+<li><a href="/wiki/IOS_version_history" title="IOS version history">History</a></li>
+<li><a href="/wiki/Pre-installed_iOS_apps" title="Pre-installed iOS apps">Apps</a></li></ul></li>
+<li><a href="/wiki/MacOS" title="MacOS">macOS</a>
+<ul><li><a href="/wiki/MacOS_version_history" title="MacOS version history">History</a></li>
+<li><a href="/wiki/MacOS_Server" title="MacOS Server">Server</a></li></ul></li>
+<li><a href="/wiki/TvOS" title="TvOS">tvOS</a></li>
+<li><a href="/wiki/WatchOS" title="WatchOS">watchOS</a></li>
+<li><a href="/wiki/BridgeOS" title="BridgeOS">bridgeOS</a></li>
+<li><a href="/wiki/Darwin_(operating_system)" title="Darwin (operating system)">Darwin</a></li>
+<li><i><a href="/wiki/Classic_Mac_OS" title="Classic Mac OS">Classic Mac OS</a></i></li></ul>
+</div></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/CarPlay" title="CarPlay">CarPlay</a></li>
+<li><a href="/wiki/Classroom_(Apple)" title="Classroom (Apple)">Classroom</a></li>
+<li><a href="/wiki/HomeKit" title="HomeKit">HomeKit</a></li>
+<li><a href="/wiki/Core_Foundation" title="Core Foundation">Core Foundation</a></li>
+<li><a href="/wiki/Apple_Developer_Tools" title="Apple Developer Tools">Developer Tools</a></li>
+<li><a href="/wiki/FileMaker" title="FileMaker">FileMaker</a></li>
+<li><a href="/wiki/Final_Cut_Pro" title="Final Cut Pro">Final Cut Pro</a>
+<ul><li><a href="/wiki/Final_Cut_Pro_X" title="Final Cut Pro X">X</a></li>
+<li><a href="/wiki/Compressor_(software)" title="Compressor (software)">Compressor</a></li>
+<li><a href="/wiki/Motion_(software)" title="Motion (software)">Motion</a></li></ul></li>
+<li><a href="/wiki/Logic_Pro" title="Logic Pro">Logic Pro</a>
+<ul><li><a href="/wiki/MainStage_(software)" title="MainStage (software)">MainStage</a></li></ul></li>
+<li><i><a href="/wiki/ILife" title="ILife">iLife</a></i>
+<ul><li><a href="/wiki/GarageBand" title="GarageBand">GarageBand</a></li>
+<li><a href="/wiki/IMovie" title="IMovie">iMovie</a></li>
+<li><i><a href="/wiki/IPhoto" title="IPhoto">iPhoto</a></i></li></ul></li>
+<li><a href="/wiki/ITunes" title="ITunes">iTunes</a></li>
+<li><a href="/wiki/IWork" title="IWork">iWork</a>
+<ul><li><a href="/wiki/Keynote_(presentation_software)" title="Keynote (presentation software)">Keynote</a></li>
+<li><a href="/wiki/Numbers_(spreadsheet)" title="Numbers (spreadsheet)">Numbers</a></li>
+<li><a href="/wiki/Pages_(word_processor)" title="Pages (word processor)">Pages</a></li></ul></li>
+<li><a href="/wiki/Apple_Mail" title="Apple Mail">Mail</a></li>
+<li><a href="/wiki/QuickTime" title="QuickTime">QuickTime</a></li>
+<li><a href="/wiki/Safari_(web_browser)" title="Safari (web browser)">Safari</a></li>
+<li><a href="/wiki/Shazam_(application)" title="Shazam (application)">Shazam</a></li>
+<li><a href="/wiki/Siri" title="Siri">Siri</a></li>
+<li><a href="/wiki/Swift_(programming_language)" title="Swift (programming language)">Swift</a></li>
+<li><a href="/wiki/Xcode" title="Xcode">Xcode</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Apple_Inc._hardware" title="Category:Apple Inc. hardware">Hardware</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a class="mw-selflink selflink">iPhone</a>
+<ul><li><a href="/wiki/IPhone_hardware" title="IPhone hardware">Hardware</a></li>
+<li><a href="/wiki/History_of_the_iPhone" title="History of the iPhone">History</a></li></ul></li>
+<li><a href="/wiki/Apple_TV" title="Apple TV">TV</a></li>
+<li><a href="/wiki/Apple_Watch" title="Apple Watch">Watch</a></li>
+<li><a href="/wiki/AirPods" title="AirPods">AirPods</a>
+<ul><li><a href="/wiki/AirPods_Pro" title="AirPods Pro">Pro</a></li>
+<li><a href="/wiki/AirPods_Max" title="AirPods Max">Max</a></li></ul></li>
+<li><a href="/wiki/AirTag" title="AirTag">AirTag</a></li>
+<li><a href="/wiki/Beats_Electronics" title="Beats Electronics">Beats</a>
+<ul><li><a href="/wiki/Beats_Pill" title="Beats Pill">Pill</a></li>
+<li><a class="mw-redirect" href="/wiki/Powerbeats_Pro" title="Powerbeats Pro">Powerbeats Pro</a></li></ul></li>
+<li><a href="/wiki/HomePod" title="HomePod">HomePod</a>
+<ul><li><a href="/wiki/HomePod_Mini" title="HomePod Mini">Mini</a></li></ul></li>
+<li><a href="/wiki/Apple_silicon" title="Apple silicon">Silicon</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Mac_(computer)" title="Mac (computer)">Mac</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IMac" title="IMac">iMac</a>
+<ul><li><i><a href="/wiki/IMac_Pro" title="IMac Pro">Pro</a></i></li></ul></li>
+<li><a href="/wiki/MacBook" title="MacBook">MacBook</a>
+<ul><li><a href="/wiki/MacBook_Air" title="MacBook Air">Air</a></li>
+<li><a href="/wiki/MacBook_Pro" title="MacBook Pro">Pro</a></li></ul></li>
+<li><a href="/wiki/Mac_Mini" title="Mac Mini">Mini</a></li>
+<li><a href="/wiki/Mac_Studio" title="Mac Studio">Studio</a></li>
+<li><a href="/wiki/Mac_Pro" title="Mac Pro">Pro</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/IPod" title="IPod">iPod</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/IPod_Classic" title="IPod Classic">Classic</a></i></li>
+<li><i><a href="/wiki/IPod_Mini" title="IPod Mini">Mini</a></i></li>
+<li><i><a href="/wiki/IPod_Nano" title="IPod Nano">Nano</a></i></li>
+<li><i><a href="/wiki/IPod_Shuffle" title="IPod Shuffle">Shuffle</a></i></li>
+<li><i><a href="/wiki/IPod_Touch" title="IPod Touch">Touch</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/IPad" title="IPad">iPad</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IPad_Mini" title="IPad Mini">Mini</a></li>
+<li><a class="mw-redirect" href="/wiki/IPad_Air" title="IPad Air">Air</a></li>
+<li><a href="/wiki/IPad_Pro" title="IPad Pro">Pro</a></li>
+<li><a href="/wiki/List_of_iPad_accessories" title="List of iPad accessories">Accessories</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr>
+<tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a class="mw-selflink selflink">iPhone</a>
+<ul><li><a href="/wiki/IPhone_hardware" title="IPhone hardware">Hardware</a></li>
+<li><a href="/wiki/History_of_the_iPhone" title="History of the iPhone">History</a></li></ul></li>
+<li><a href="/wiki/Apple_TV" title="Apple TV">TV</a></li>
+<li><a href="/wiki/Apple_Watch" title="Apple Watch">Watch</a></li>
+<li><a href="/wiki/AirPods" title="AirPods">AirPods</a>
+<ul><li><a href="/wiki/AirPods_Pro" title="AirPods Pro">Pro</a></li>
+<li><a href="/wiki/AirPods_Max" title="AirPods Max">Max</a></li></ul></li>
+<li><a href="/wiki/AirTag" title="AirTag">AirTag</a></li>
+<li><a href="/wiki/Beats_Electronics" title="Beats Electronics">Beats</a>
+<ul><li><a href="/wiki/Beats_Pill" title="Beats Pill">Pill</a></li>
+<li><a class="mw-redirect" href="/wiki/Powerbeats_Pro" title="Powerbeats Pro">Powerbeats Pro</a></li></ul></li>
+<li><a href="/wiki/HomePod" title="HomePod">HomePod</a>
+<ul><li><a href="/wiki/HomePod_Mini" title="HomePod Mini">Mini</a></li></ul></li>
+<li><a href="/wiki/Apple_silicon" title="Apple silicon">Silicon</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Mac_(computer)" title="Mac (computer)">Mac</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IMac" title="IMac">iMac</a>
+<ul><li><i><a href="/wiki/IMac_Pro" title="IMac Pro">Pro</a></i></li></ul></li>
+<li><a href="/wiki/MacBook" title="MacBook">MacBook</a>
+<ul><li><a href="/wiki/MacBook_Air" title="MacBook Air">Air</a></li>
+<li><a href="/wiki/MacBook_Pro" title="MacBook Pro">Pro</a></li></ul></li>
+<li><a href="/wiki/Mac_Mini" title="Mac Mini">Mini</a></li>
+<li><a href="/wiki/Mac_Studio" title="Mac Studio">Studio</a></li>
+<li><a href="/wiki/Mac_Pro" title="Mac Pro">Pro</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/IPod" title="IPod">iPod</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/IPod_Classic" title="IPod Classic">Classic</a></i></li>
+<li><i><a href="/wiki/IPod_Mini" title="IPod Mini">Mini</a></i></li>
+<li><i><a href="/wiki/IPod_Nano" title="IPod Nano">Nano</a></i></li>
+<li><i><a href="/wiki/IPod_Shuffle" title="IPod Shuffle">Shuffle</a></i></li>
+<li><i><a href="/wiki/IPod_Touch" title="IPod Touch">Touch</a></i></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/IPad" title="IPad">iPad</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IPad_Mini" title="IPad Mini">Mini</a></li>
+<li><a class="mw-redirect" href="/wiki/IPad_Air" title="IPad Air">Air</a></li>
+<li><a href="/wiki/IPad_Pro" title="IPad Pro">Pro</a></li>
+<li><a href="/wiki/List_of_iPad_accessories" title="List of iPad accessories">Accessories</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Apple_Inc._software" title="Category:Apple Inc. software">Software</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Operatingsystems" scope="row" style="width:1%"><a href="/wiki/List_of_Apple_operating_systems" title="List of Apple operating systems">Operating<br/>systems</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IOS" title="IOS">iOS</a> / <a href="/wiki/IPadOS" title="IPadOS">iPadOS</a>
+<ul><li><a href="/wiki/List_of_iOS_and_iPadOS_devices" title="List of iOS and iPadOS devices">Devices</a></li>
+<li><a href="/wiki/IOS_version_history" title="IOS version history">History</a></li>
+<li><a href="/wiki/Pre-installed_iOS_apps" title="Pre-installed iOS apps">Apps</a></li></ul></li>
+<li><a href="/wiki/MacOS" title="MacOS">macOS</a>
+<ul><li><a href="/wiki/MacOS_version_history" title="MacOS version history">History</a></li>
+<li><a href="/wiki/MacOS_Server" title="MacOS Server">Server</a></li></ul></li>
+<li><a href="/wiki/TvOS" title="TvOS">tvOS</a></li>
+<li><a href="/wiki/WatchOS" title="WatchOS">watchOS</a></li>
+<li><a href="/wiki/BridgeOS" title="BridgeOS">bridgeOS</a></li>
+<li><a href="/wiki/Darwin_(operating_system)" title="Darwin (operating system)">Darwin</a></li>
+<li><i><a href="/wiki/Classic_Mac_OS" title="Classic Mac OS">Classic Mac OS</a></i></li></ul>
+</div></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/CarPlay" title="CarPlay">CarPlay</a></li>
+<li><a href="/wiki/Classroom_(Apple)" title="Classroom (Apple)">Classroom</a></li>
+<li><a href="/wiki/HomeKit" title="HomeKit">HomeKit</a></li>
+<li><a href="/wiki/Core_Foundation" title="Core Foundation">Core Foundation</a></li>
+<li><a href="/wiki/Apple_Developer_Tools" title="Apple Developer Tools">Developer Tools</a></li>
+<li><a href="/wiki/FileMaker" title="FileMaker">FileMaker</a></li>
+<li><a href="/wiki/Final_Cut_Pro" title="Final Cut Pro">Final Cut Pro</a>
+<ul><li><a href="/wiki/Final_Cut_Pro_X" title="Final Cut Pro X">X</a></li>
+<li><a href="/wiki/Compressor_(software)" title="Compressor (software)">Compressor</a></li>
+<li><a href="/wiki/Motion_(software)" title="Motion (software)">Motion</a></li></ul></li>
+<li><a href="/wiki/Logic_Pro" title="Logic Pro">Logic Pro</a>
+<ul><li><a href="/wiki/MainStage_(software)" title="MainStage (software)">MainStage</a></li></ul></li>
+<li><i><a href="/wiki/ILife" title="ILife">iLife</a></i>
+<ul><li><a href="/wiki/GarageBand" title="GarageBand">GarageBand</a></li>
+<li><a href="/wiki/IMovie" title="IMovie">iMovie</a></li>
+<li><i><a href="/wiki/IPhoto" title="IPhoto">iPhoto</a></i></li></ul></li>
+<li><a href="/wiki/ITunes" title="ITunes">iTunes</a></li>
+<li><a href="/wiki/IWork" title="IWork">iWork</a>
+<ul><li><a href="/wiki/Keynote_(presentation_software)" title="Keynote (presentation software)">Keynote</a></li>
+<li><a href="/wiki/Numbers_(spreadsheet)" title="Numbers (spreadsheet)">Numbers</a></li>
+<li><a href="/wiki/Pages_(word_processor)" title="Pages (word processor)">Pages</a></li></ul></li>
+<li><a href="/wiki/Apple_Mail" title="Apple Mail">Mail</a></li>
+<li><a href="/wiki/QuickTime" title="QuickTime">QuickTime</a></li>
+<li><a href="/wiki/Safari_(web_browser)" title="Safari (web browser)">Safari</a></li>
+<li><a href="/wiki/Shazam_(application)" title="Shazam (application)">Shazam</a></li>
+<li><a href="/wiki/Siri" title="Siri">Siri</a></li>
+<li><a href="/wiki/Swift_(programming_language)" title="Swift (programming language)">Swift</a></li>
+<li><a href="/wiki/Xcode" title="Xcode">Xcode</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr>
+<tr><th class="navbox-group" id="Operatingsystems" scope="row" style="width:1%"><a href="/wiki/List_of_Apple_operating_systems" title="List of Apple operating systems">Operating<br/>systems</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IOS" title="IOS">iOS</a> / <a href="/wiki/IPadOS" title="IPadOS">iPadOS</a>
+<ul><li><a href="/wiki/List_of_iOS_and_iPadOS_devices" title="List of iOS and iPadOS devices">Devices</a></li>
+<li><a href="/wiki/IOS_version_history" title="IOS version history">History</a></li>
+<li><a href="/wiki/Pre-installed_iOS_apps" title="Pre-installed iOS apps">Apps</a></li></ul></li>
+<li><a href="/wiki/MacOS" title="MacOS">macOS</a>
+<ul><li><a href="/wiki/MacOS_version_history" title="MacOS version history">History</a></li>
+<li><a href="/wiki/MacOS_Server" title="MacOS Server">Server</a></li></ul></li>
+<li><a href="/wiki/TvOS" title="TvOS">tvOS</a></li>
+<li><a href="/wiki/WatchOS" title="WatchOS">watchOS</a></li>
+<li><a href="/wiki/BridgeOS" title="BridgeOS">bridgeOS</a></li>
+<li><a href="/wiki/Darwin_(operating_system)" title="Darwin (operating system)">Darwin</a></li>
+<li><i><a href="/wiki/Classic_Mac_OS" title="Classic Mac OS">Classic Mac OS</a></i></li></ul>
+</div></td></tr>
+<tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/CarPlay" title="CarPlay">CarPlay</a></li>
+<li><a href="/wiki/Classroom_(Apple)" title="Classroom (Apple)">Classroom</a></li>
+<li><a href="/wiki/HomeKit" title="HomeKit">HomeKit</a></li>
+<li><a href="/wiki/Core_Foundation" title="Core Foundation">Core Foundation</a></li>
+<li><a href="/wiki/Apple_Developer_Tools" title="Apple Developer Tools">Developer Tools</a></li>
+<li><a href="/wiki/FileMaker" title="FileMaker">FileMaker</a></li>
+<li><a href="/wiki/Final_Cut_Pro" title="Final Cut Pro">Final Cut Pro</a>
+<ul><li><a href="/wiki/Final_Cut_Pro_X" title="Final Cut Pro X">X</a></li>
+<li><a href="/wiki/Compressor_(software)" title="Compressor (software)">Compressor</a></li>
+<li><a href="/wiki/Motion_(software)" title="Motion (software)">Motion</a></li></ul></li>
+<li><a href="/wiki/Logic_Pro" title="Logic Pro">Logic Pro</a>
+<ul><li><a href="/wiki/MainStage_(software)" title="MainStage (software)">MainStage</a></li></ul></li>
+<li><i><a href="/wiki/ILife" title="ILife">iLife</a></i>
+<ul><li><a href="/wiki/GarageBand" title="GarageBand">GarageBand</a></li>
+<li><a href="/wiki/IMovie" title="IMovie">iMovie</a></li>
+<li><i><a href="/wiki/IPhoto" title="IPhoto">iPhoto</a></i></li></ul></li>
+<li><a href="/wiki/ITunes" title="ITunes">iTunes</a></li>
+<li><a href="/wiki/IWork" title="IWork">iWork</a>
+<ul><li><a href="/wiki/Keynote_(presentation_software)" title="Keynote (presentation software)">Keynote</a></li>
+<li><a href="/wiki/Numbers_(spreadsheet)" title="Numbers (spreadsheet)">Numbers</a></li>
+<li><a href="/wiki/Pages_(word_processor)" title="Pages (word processor)">Pages</a></li></ul></li>
+<li><a href="/wiki/Apple_Mail" title="Apple Mail">Mail</a></li>
+<li><a href="/wiki/QuickTime" title="QuickTime">QuickTime</a></li>
+<li><a href="/wiki/Safari_(web_browser)" title="Safari (web browser)">Safari</a></li>
+<li><a href="/wiki/Shazam_(application)" title="Shazam (application)">Shazam</a></li>
+<li><a href="/wiki/Siri" title="Siri">Siri</a></li>
+<li><a href="/wiki/Swift_(programming_language)" title="Swift (programming language)">Swift</a></li>
+<li><a href="/wiki/Xcode" title="Xcode">Xcode</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Apple_Inc._services" title="Category:Apple Inc. services">Services</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Financial</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Apple_Card" title="Apple Card">Card</a></li>
+<li><a href="/wiki/Apple_Pay" title="Apple Pay">Pay</a></li>
+<li><a href="/wiki/Apple_Wallet" title="Apple Wallet">Wallet</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Media</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Apple_Arcade" title="Apple Arcade">Arcade</a></li>
+<li><a href="/wiki/Apple_Books" title="Apple Books">Books</a></li>
+<li><a href="/wiki/Apple_Music" title="Apple Music">Music</a>
+<ul><li><a href="/wiki/Apple_Music_1" title="Apple Music 1">1</a></li>
+<li><i><a href="/wiki/Beats_Music" title="Beats Music">Beats Music</a></i></li>
+<li><a href="/wiki/Apple_Music_Up_Next" title="Apple Music Up Next">Up Next</a></li>
+<li><i><a href="/wiki/Apple_Music_Festival" title="Apple Music Festival">Festival</a></i></li>
+<li><i><a href="/wiki/ITunes_Radio" title="ITunes Radio">iTunes Radio</a></i></li>
+<li><a href="/wiki/Music_(software)" title="Music (software)">App</a></li></ul></li>
+<li><a href="/wiki/Apple_News" title="Apple News">News</a>
+<ul><li><i><a href="/wiki/Newsstand_(software)" title="Newsstand (software)">Newsstand</a></i></li></ul></li>
+<li><a href="/wiki/Apple_Podcasts" title="Apple Podcasts">Podcasts</a></li>
+<li><a href="/wiki/Apple_TV_app" title="Apple TV app">TV</a>
+<ul><li><a href="/wiki/Apple_TV%2B" title="Apple TV+">+</a></li>
+<li><a href="/wiki/List_of_Apple_TV%2B_original_programming" title="List of Apple TV+ original programming">originals</a></li>
+<li><a href="/wiki/MLS_Season_Pass" title="MLS Season Pass">MLS Season Pass</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Communication</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/FaceTime" title="FaceTime">FaceTime</a></li>
+<li><a href="/wiki/Walkie-Talkie_(Apple)" title="Walkie-Talkie (Apple)">Walkie-Talkie</a></li>
+<li><a href="/wiki/IMessage" title="IMessage">iMessage</a>
+<ul><li><i><a href="/wiki/IChat" title="IChat">iChat</a></i></li>
+<li><a href="/wiki/Messages_(Apple)" title="Messages (Apple)">App</a></li></ul></li>
+<li><a href="/wiki/Game_Center" title="Game Center">Game Center</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Retail and<br/>digital sales</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>App Store
+<ul><li><a href="/wiki/App_Store_(iOS/iPadOS)" title="App Store (iOS/iPadOS)">iOS / iPadOS</a></li>
+<li><a href="/wiki/Mac_App_Store" title="Mac App Store">macOS</a></li>
+<li><a href="/wiki/App_Store_(tvOS)" title="App Store (tvOS)">tvOS</a></li></ul></li>
+<li><a href="/wiki/ITunes_Store" title="ITunes Store">iTunes Store</a>
+<ul><li><a href="/wiki/ITunes_Connect" title="ITunes Connect">Connect</a></li></ul></li>
+<li><a href="/wiki/Apple_Store" title="Apple Store">Store</a>
+<ul><li><a href="/wiki/Apple_Fifth_Avenue" title="Apple Fifth Avenue">Fifth Avenue</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Support</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/AppleCare%2B" title="AppleCare+">AppleCare+</a></li>
+<li><a href="/wiki/Apple_Authorized_Service_Provider" title="Apple Authorized Service Provider">AASP</a></li>
+<li><a href="/wiki/Apple_certification_programs" title="Apple certification programs">Certifications</a></li>
+<li><a href="/wiki/Genius_Bar" title="Genius Bar">Genius Bar</a></li>
+<li><i><a href="/wiki/ProCare" title="ProCare">ProCare</a></i></li>
+<li><i><a href="/wiki/One_to_One_(Apple)" title="One to One (Apple)">One to One</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Apple_ID" title="Apple ID">ID</a>
+<ul><li><a href="/wiki/Sign_in_with_Apple" title="Sign in with Apple">Sign in with Apple</a></li></ul></li>
+<li><a href="/wiki/Apple_One" title="Apple One">One</a></li>
+<li><a href="/wiki/Apple_Developer" title="Apple Developer">Developer</a>
+<ul><li><i><a href="/wiki/IAd" title="IAd">iAd</a></i></li>
+<li><a href="/wiki/TestFlight" title="TestFlight">TestFlight</a></li>
+<li><a href="/wiki/Worldwide_Developers_Conference" title="Worldwide Developers Conference">WWDC</a></li></ul></li>
+<li><a href="/wiki/ICloud" title="ICloud">iCloud</a>
+<ul><li><i><a href="/wiki/MobileMe" title="MobileMe">MobileMe</a></i></li></ul></li>
+<li><a href="/wiki/Find_My" title="Find My">Find My</a></li>
+<li><a href="/wiki/Fitness_(Apple)" title="Fitness (Apple)">Fitness</a></li>
+<li><a href="/wiki/Apple_Photos" title="Apple Photos">Photos</a></li>
+<li><a href="/wiki/Apple_Maps" title="Apple Maps">Maps</a>
+<ul><li><a href="/wiki/Apple_Look_Around" title="Apple Look Around">Look Around</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Financial</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Apple_Card" title="Apple Card">Card</a></li>
+<li><a href="/wiki/Apple_Pay" title="Apple Pay">Pay</a></li>
+<li><a href="/wiki/Apple_Wallet" title="Apple Wallet">Wallet</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Media</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Apple_Arcade" title="Apple Arcade">Arcade</a></li>
+<li><a href="/wiki/Apple_Books" title="Apple Books">Books</a></li>
+<li><a href="/wiki/Apple_Music" title="Apple Music">Music</a>
+<ul><li><a href="/wiki/Apple_Music_1" title="Apple Music 1">1</a></li>
+<li><i><a href="/wiki/Beats_Music" title="Beats Music">Beats Music</a></i></li>
+<li><a href="/wiki/Apple_Music_Up_Next" title="Apple Music Up Next">Up Next</a></li>
+<li><i><a href="/wiki/Apple_Music_Festival" title="Apple Music Festival">Festival</a></i></li>
+<li><i><a href="/wiki/ITunes_Radio" title="ITunes Radio">iTunes Radio</a></i></li>
+<li><a href="/wiki/Music_(software)" title="Music (software)">App</a></li></ul></li>
+<li><a href="/wiki/Apple_News" title="Apple News">News</a>
+<ul><li><i><a href="/wiki/Newsstand_(software)" title="Newsstand (software)">Newsstand</a></i></li></ul></li>
+<li><a href="/wiki/Apple_Podcasts" title="Apple Podcasts">Podcasts</a></li>
+<li><a href="/wiki/Apple_TV_app" title="Apple TV app">TV</a>
+<ul><li><a href="/wiki/Apple_TV%2B" title="Apple TV+">+</a></li>
+<li><a href="/wiki/List_of_Apple_TV%2B_original_programming" title="List of Apple TV+ original programming">originals</a></li>
+<li><a href="/wiki/MLS_Season_Pass" title="MLS Season Pass">MLS Season Pass</a></li></ul></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Communication</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/FaceTime" title="FaceTime">FaceTime</a></li>
+<li><a href="/wiki/Walkie-Talkie_(Apple)" title="Walkie-Talkie (Apple)">Walkie-Talkie</a></li>
+<li><a href="/wiki/IMessage" title="IMessage">iMessage</a>
+<ul><li><i><a href="/wiki/IChat" title="IChat">iChat</a></i></li>
+<li><a href="/wiki/Messages_(Apple)" title="Messages (Apple)">App</a></li></ul></li>
+<li><a href="/wiki/Game_Center" title="Game Center">Game Center</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Retail and<br/>digital sales</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>App Store
+<ul><li><a href="/wiki/App_Store_(iOS/iPadOS)" title="App Store (iOS/iPadOS)">iOS / iPadOS</a></li>
+<li><a href="/wiki/Mac_App_Store" title="Mac App Store">macOS</a></li>
+<li><a href="/wiki/App_Store_(tvOS)" title="App Store (tvOS)">tvOS</a></li></ul></li>
+<li><a href="/wiki/ITunes_Store" title="ITunes Store">iTunes Store</a>
+<ul><li><a href="/wiki/ITunes_Connect" title="ITunes Connect">Connect</a></li></ul></li>
+<li><a href="/wiki/Apple_Store" title="Apple Store">Store</a>
+<ul><li><a href="/wiki/Apple_Fifth_Avenue" title="Apple Fifth Avenue">Fifth Avenue</a></li></ul></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Support</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/AppleCare%2B" title="AppleCare+">AppleCare+</a></li>
+<li><a href="/wiki/Apple_Authorized_Service_Provider" title="Apple Authorized Service Provider">AASP</a></li>
+<li><a href="/wiki/Apple_certification_programs" title="Apple certification programs">Certifications</a></li>
+<li><a href="/wiki/Genius_Bar" title="Genius Bar">Genius Bar</a></li>
+<li><i><a href="/wiki/ProCare" title="ProCare">ProCare</a></i></li>
+<li><i><a href="/wiki/One_to_One_(Apple)" title="One to One (Apple)">One to One</a></i></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Other</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Apple_ID" title="Apple ID">ID</a>
+<ul><li><a href="/wiki/Sign_in_with_Apple" title="Sign in with Apple">Sign in with Apple</a></li></ul></li>
+<li><a href="/wiki/Apple_One" title="Apple One">One</a></li>
+<li><a href="/wiki/Apple_Developer" title="Apple Developer">Developer</a>
+<ul><li><i><a href="/wiki/IAd" title="IAd">iAd</a></i></li>
+<li><a href="/wiki/TestFlight" title="TestFlight">TestFlight</a></li>
+<li><a href="/wiki/Worldwide_Developers_Conference" title="Worldwide Developers Conference">WWDC</a></li></ul></li>
+<li><a href="/wiki/ICloud" title="ICloud">iCloud</a>
+<ul><li><i><a href="/wiki/MobileMe" title="MobileMe">MobileMe</a></i></li></ul></li>
+<li><a href="/wiki/Find_My" title="Find My">Find My</a></li>
+<li><a href="/wiki/Fitness_(Apple)" title="Fitness (Apple)">Fitness</a></li>
+<li><a href="/wiki/Apple_Photos" title="Apple Photos">Photos</a></li>
+<li><a href="/wiki/Apple_Maps" title="Apple Maps">Maps</a>
+<ul><li><a href="/wiki/Apple_Look_Around" title="Apple Look Around">Look Around</a></li></ul></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Companies</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Apple_Inc._subsidiaries" title="Category:Apple Inc. subsidiaries">Subsidiaries</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Anobit" title="Anobit">Anobit</a></li>
+<li><a href="/wiki/Apple_IMC" title="Apple IMC">Apple IMC</a></li>
+<li><a class="mw-redirect" href="/wiki/Apple_Studios_(production_company)" title="Apple Studios (production company)">Apple Studios</a></li>
+<li><a href="/wiki/Beats_Electronics" title="Beats Electronics">Beats</a></li>
+<li><a href="/wiki/Beddit" title="Beddit">Beddit</a></li>
+<li><a href="/wiki/Braeburn_Capital" title="Braeburn Capital">Braeburn Capital</a></li>
+<li><a href="/wiki/Claris" title="Claris">Claris</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Apple_Inc._acquisitions" title="Category:Apple Inc. acquisitions">Acquisitions</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/List_of_mergers_and_acquisitions_by_Apple" title="List of mergers and acquisitions by Apple">List</a></li>
+<li><a href="/wiki/Anobit" title="Anobit">Anobit</a></li>
+<li><i><a href="/wiki/AuthenTec" title="AuthenTec">AuthenTec</a></i></li>
+<li><a href="/wiki/Beats_Electronics" title="Beats Electronics">Beats</a></li>
+<li><a href="/wiki/Beddit" title="Beddit">Beddit</a></li>
+<li><i><a href="/wiki/Cue_(search_engine)" title="Cue (search engine)">Cue</a></i></li>
+<li><i><a href="/wiki/EditGrid" title="EditGrid">EditGrid</a></i></li>
+<li><i><a href="/wiki/Emagic" title="Emagic">Emagic</a></i></li>
+<li><i><a href="/wiki/FingerWorks" title="FingerWorks">FingerWorks</a></i></li>
+<li><i><a href="/wiki/Intrinsity" title="Intrinsity">Intrinsity</a></i></li>
+<li><i><a href="/wiki/InVisage_Technologies" title="InVisage Technologies">InVisage Technologies</a></i></li>
+<li><i><a href="/wiki/The_Keyboard_Company" title="The Keyboard Company">The Keyboard Company</a></i></li>
+<li><i><a href="/wiki/Lala_(website)" title="Lala (website)">Lala</a></i></li>
+<li><i><a href="/wiki/Metaio" title="Metaio">Metaio</a></i></li>
+<li><i><a href="/wiki/NeXT" title="NeXT">NeXT</a></i></li>
+<li><i><a href="/wiki/Nothing_Real" title="Nothing Real">Nothing Real</a></i></li>
+<li><i><a href="/wiki/P.A._Semi" title="P.A. Semi">P.A. Semi</a></i></li>
+<li><i><a href="/wiki/Power_Computing_Corporation" title="Power Computing Corporation">Power Computing</a></i></li>
+<li><i><a href="/wiki/PrimeSense" title="PrimeSense">PrimeSense</a></i></li>
+<li><a href="/wiki/Shazam_(application)" title="Shazam (application)">Shazam Entertainment Limited</a></li>
+<li><a href="/wiki/Siri" title="Siri">Siri</a></li>
+<li><i><a href="/wiki/Texture_(app)" title="Texture (app)">Texture</a></i></li>
+<li><i><a href="/wiki/Topsy_Labs" title="Topsy Labs">Topsy</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Apple_Inc._partnerships" title="Category:Apple Inc. partnerships">Partnerships</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/AIM_alliance" title="AIM alliance">AIM alliance</a></i>
+<ul><li><i><a href="/wiki/Kaleida_Labs" title="Kaleida Labs">Kaleida Labs</a></i></li>
+<li><i><a href="/wiki/Taligent" title="Taligent">Taligent</a></i></li></ul></li>
+<li><a href="/wiki/Akamai_Technologies" title="Akamai Technologies">Akamai</a></li>
+<li><a href="/wiki/Arm_(company)" title="Arm (company)">Arm</a></li>
+<li><a href="/wiki/DiDi" title="DiDi">DiDi</a></li>
+<li><i><a href="/wiki/Digital_Ocean" title="Digital Ocean">Digital Ocean</a></i></li>
+<li><a href="/wiki/IFund" title="IFund">iFund</a></li>
+<li><a href="/wiki/Imagination_Technologies" title="Imagination Technologies">Imagination</a></li>
+<li><a href="/wiki/Rockstar_Consortium" title="Rockstar Consortium">Rockstar Consortium</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Apple_Inc._subsidiaries" title="Category:Apple Inc. subsidiaries">Subsidiaries</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Anobit" title="Anobit">Anobit</a></li>
+<li><a href="/wiki/Apple_IMC" title="Apple IMC">Apple IMC</a></li>
+<li><a class="mw-redirect" href="/wiki/Apple_Studios_(production_company)" title="Apple Studios (production company)">Apple Studios</a></li>
+<li><a href="/wiki/Beats_Electronics" title="Beats Electronics">Beats</a></li>
+<li><a href="/wiki/Beddit" title="Beddit">Beddit</a></li>
+<li><a href="/wiki/Braeburn_Capital" title="Braeburn Capital">Braeburn Capital</a></li>
+<li><a href="/wiki/Claris" title="Claris">Claris</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Apple_Inc._acquisitions" title="Category:Apple Inc. acquisitions">Acquisitions</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/List_of_mergers_and_acquisitions_by_Apple" title="List of mergers and acquisitions by Apple">List</a></li>
+<li><a href="/wiki/Anobit" title="Anobit">Anobit</a></li>
+<li><i><a href="/wiki/AuthenTec" title="AuthenTec">AuthenTec</a></i></li>
+<li><a href="/wiki/Beats_Electronics" title="Beats Electronics">Beats</a></li>
+<li><a href="/wiki/Beddit" title="Beddit">Beddit</a></li>
+<li><i><a href="/wiki/Cue_(search_engine)" title="Cue (search engine)">Cue</a></i></li>
+<li><i><a href="/wiki/EditGrid" title="EditGrid">EditGrid</a></i></li>
+<li><i><a href="/wiki/Emagic" title="Emagic">Emagic</a></i></li>
+<li><i><a href="/wiki/FingerWorks" title="FingerWorks">FingerWorks</a></i></li>
+<li><i><a href="/wiki/Intrinsity" title="Intrinsity">Intrinsity</a></i></li>
+<li><i><a href="/wiki/InVisage_Technologies" title="InVisage Technologies">InVisage Technologies</a></i></li>
+<li><i><a href="/wiki/The_Keyboard_Company" title="The Keyboard Company">The Keyboard Company</a></i></li>
+<li><i><a href="/wiki/Lala_(website)" title="Lala (website)">Lala</a></i></li>
+<li><i><a href="/wiki/Metaio" title="Metaio">Metaio</a></i></li>
+<li><i><a href="/wiki/NeXT" title="NeXT">NeXT</a></i></li>
+<li><i><a href="/wiki/Nothing_Real" title="Nothing Real">Nothing Real</a></i></li>
+<li><i><a href="/wiki/P.A._Semi" title="P.A. Semi">P.A. Semi</a></i></li>
+<li><i><a href="/wiki/Power_Computing_Corporation" title="Power Computing Corporation">Power Computing</a></i></li>
+<li><i><a href="/wiki/PrimeSense" title="PrimeSense">PrimeSense</a></i></li>
+<li><a href="/wiki/Shazam_(application)" title="Shazam (application)">Shazam Entertainment Limited</a></li>
+<li><a href="/wiki/Siri" title="Siri">Siri</a></li>
+<li><i><a href="/wiki/Texture_(app)" title="Texture (app)">Texture</a></i></li>
+<li><i><a href="/wiki/Topsy_Labs" title="Topsy Labs">Topsy</a></i></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Apple_Inc._partnerships" title="Category:Apple Inc. partnerships">Partnerships</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/AIM_alliance" title="AIM alliance">AIM alliance</a></i>
+<ul><li><i><a href="/wiki/Kaleida_Labs" title="Kaleida Labs">Kaleida Labs</a></i></li>
+<li><i><a href="/wiki/Taligent" title="Taligent">Taligent</a></i></li></ul></li>
+<li><a href="/wiki/Akamai_Technologies" title="Akamai Technologies">Akamai</a></li>
+<li><a href="/wiki/Arm_(company)" title="Arm (company)">Arm</a></li>
+<li><a href="/wiki/DiDi" title="DiDi">DiDi</a></li>
+<li><i><a href="/wiki/Digital_Ocean" title="Digital Ocean">Digital Ocean</a></i></li>
+<li><a href="/wiki/IFund" title="IFund">iFund</a></li>
+<li><a href="/wiki/Imagination_Technologies" title="Imagination Technologies">Imagination</a></li>
+<li><a href="/wiki/Rockstar_Consortium" title="Rockstar Consortium">Rockstar Consortium</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Related</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Apple_Inc._advertising" title="Apple Inc. advertising">Advertising</a>
+<ul><li>"<a href="/wiki/1984_(advertisement)" title="1984 (advertisement)">1984</a>"</li>
+<li>"<a href="/wiki/Think_different" title="Think different">Think different</a>"</li>
+<li>"<a href="/wiki/Get_a_Mac" title="Get a Mac">Get a Mac</a>"</li>
+<li><a href="/wiki/IPod_advertising" title="IPod advertising">iPod</a></li>
+<li><a href="/wiki/Product_Red" title="Product Red">Product Red</a></li></ul></li>
+<li><a href="/wiki/Apple_ecosystem" title="Apple ecosystem">Ecosystem</a></li>
+<li><a href="/wiki/List_of_Apple_Inc._media_events" title="List of Apple Inc. media events">Events</a></li>
+<li>Headquarters
+<ul><li><a href="/wiki/Apple_Campus" title="Apple Campus">Campus</a></li>
+<li><a href="/wiki/Apple_Park" title="Apple Park">Park</a></li></ul></li>
+<li><a href="/wiki/Apple_University" title="Apple University">University</a></li>
+<li><a href="/wiki/Apple_Inc._design_motifs" title="Apple Inc. design motifs">Design</a>
+<ul><li><a href="/wiki/Apple_Industrial_Design_Group" title="Apple Industrial Design Group">IDg</a></li>
+<li><a href="/wiki/Typography_of_Apple_Inc." title="Typography of Apple Inc.">Typography</a></li>
+<li><a href="/wiki/Designed_by_Apple_in_California" title="Designed by Apple in California">Book</a></li></ul></li>
+<li><a href="/wiki/History_of_Apple_Inc." title="History of Apple Inc.">History</a>
+<ul><li><a href="/wiki/List_of_Apple_codenames" title="List of Apple codenames">Codenames</a></li></ul></li>
+<li><a href="/wiki/Apple_community" title="Apple community">Community</a>
+<ul><li><a href="/wiki/AppleMasters" title="AppleMasters">AppleMasters</a></li>
+<li><a href="/wiki/Criticism_of_Apple_Inc." title="Criticism of Apple Inc.">Criticism</a></li>
+<li><a href="/wiki/Apple_Inc._litigation" title="Apple Inc. litigation">Litigation</a>
+<ul><li><a href="/wiki/FBI%E2%80%93Apple_encryption_dispute" title="FBIApple encryption dispute">FBI encryption dispute</a></li></ul></li>
+<li><a href="/wiki/IOS_app_approvals" title="IOS app approvals">iOS app approvals</a></li></ul></li>
+<li><a href="/wiki/Apple_worker_organizations" title="Apple worker organizations">Worker organizations</a></li>
+<li><a href="/wiki/List_of_artistic_depictions_of_Steve_Jobs" title="List of artistic depictions of Steve Jobs">Artistic depictions of Steve Jobs</a></li>
+<li><a href="/wiki/Linux_on_Apple_devices" title="Linux on Apple devices">Linux</a>
+<ul><li><a href="/wiki/Asahi_Linux" title="Asahi Linux">Asahi Linux</a></li>
+<li><a href="/wiki/IPodLinux" title="IPodLinux">iPodLinux</a></li></ul></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">People</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Apple_Inc._executives" title="Category:Apple Inc. executives">Executives</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Current</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Tim_Cook" title="Tim Cook">Tim Cook</a> (CEO)</li>
+<li><a href="/wiki/Jeff_Williams_(Apple)" title="Jeff Williams (Apple)">Jeff Williams</a> (COO)</li>
+<li><a href="/wiki/Luca_Maestri" title="Luca Maestri">Luca Maestri</a> (CFO)</li>
+<li><a href="/wiki/Katherine_L._Adams" title="Katherine L. Adams">Katherine Adams</a> (General Counsel)</li>
+<li><a href="/wiki/Eddy_Cue" title="Eddy Cue">Eddy Cue</a></li>
+<li><a href="/wiki/Craig_Federighi" title="Craig Federighi">Craig Federighi</a></li>
+<li><a href="/wiki/Isabel_Ge_Mahe" title="Isabel Ge Mahe">Isabel Ge Mahe</a></li>
+<li><a href="/wiki/John_Giannandrea" title="John Giannandrea">John Giannandrea</a></li>
+<li><a href="/wiki/Lisa_P._Jackson" title="Lisa P. Jackson">Lisa Jackson</a></li>
+<li><a href="/wiki/Greg_Joswiak" title="Greg Joswiak">Greg Joswiak</a></li>
+<li><a href="/wiki/Deirdre_O%27Brien" title="Deirdre O'Brien">Deirdre O'Brien</a></li>
+<li><a href="/wiki/Dan_Riccio" title="Dan Riccio">Dan Riccio</a></li>
+<li><a href="/wiki/Phil_Schiller" title="Phil Schiller">Phil Schiller</a></li>
+<li><a href="/wiki/Johny_Srouji" title="Johny Srouji">Johny Srouji</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Former</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Michael_Scott_(Apple)" title="Michael Scott (Apple)">Michael Scott</a> (CEO)</li>
+<li><a href="/wiki/Mike_Markkula" title="Mike Markkula">Mike Markkula</a> (CEO)</li>
+<li><a href="/wiki/John_Sculley" title="John Sculley">John Sculley</a> (CEO)</li>
+<li><a href="/wiki/Michael_Spindler" title="Michael Spindler">Michael Spindler</a> (CEO)</li>
+<li><a href="/wiki/Gil_Amelio" title="Gil Amelio">Gil Amelio</a> (CEO)</li>
+<li><a href="/wiki/Steve_Jobs" title="Steve Jobs">Steve Jobs</a> (CEO)</li>
+<li><a href="/wiki/Jony_Ive" title="Jony Ive">Jony Ive</a> (CDO)</li>
+<li><a href="/wiki/Angela_Ahrendts" title="Angela Ahrendts">Angela Ahrendts</a></li>
+<li><a href="/wiki/Fred_D._Anderson" title="Fred D. Anderson">Fred D. Anderson</a></li>
+<li><a href="/wiki/John_Browett" title="John Browett">John Browett</a></li>
+<li><a href="/wiki/Guerrino_De_Luca" title="Guerrino De Luca">Guerrino De Luca</a></li>
+<li><a href="/wiki/Paul_Deneve" title="Paul Deneve">Paul Deneve</a></li>
+<li><a href="/wiki/Al_Eisenstat" title="Al Eisenstat">Al Eisenstat</a></li>
+<li><a href="/wiki/Tony_Fadell" title="Tony Fadell">Tony Fadell</a></li>
+<li><a href="/wiki/Scott_Forstall" title="Scott Forstall">Scott Forstall</a></li>
+<li><a href="/wiki/Ellen_Hancock" title="Ellen Hancock">Ellen Hancock</a></li>
+<li><a href="/wiki/Nancy_R._Heinen" title="Nancy R. Heinen">Nancy R. Heinen</a></li>
+<li><a href="/wiki/Ron_Johnson_(businessman)" title="Ron Johnson (businessman)">Ron Johnson</a></li>
+<li><a href="/wiki/David_Nagel" title="David Nagel">David Nagel</a></li>
+<li><a href="/wiki/Peter_Oppenheimer" title="Peter Oppenheimer">Peter Oppenheimer</a></li>
+<li><a href="/wiki/Mark_Papermaster" title="Mark Papermaster">Mark Papermaster</a></li>
+<li><a href="/wiki/Jon_Rubinstein" title="Jon Rubinstein">Jon Rubinstein</a></li>
+<li><a href="/wiki/Bertrand_Serlet" title="Bertrand Serlet">Bertrand Serlet</a></li>
+<li><a href="/wiki/Bruce_Sewell" title="Bruce Sewell">Bruce Sewell</a></li>
+<li><a href="/wiki/Sina_Tamaddon" title="Sina Tamaddon">Sina Tamaddon</a></li>
+<li><a href="/wiki/Avie_Tevanian" title="Avie Tevanian">Avie Tevanian</a></li>
+<li><a href="/wiki/Steve_Wozniak" title="Steve Wozniak">Steve Wozniak</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Directors_of_Apple_Inc." title="Category:Directors of Apple Inc.">Board of<br/>directors</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Current</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Arthur_D._Levinson" title="Arthur D. Levinson">Arthur D. Levinson</a> (Chairman)</li>
+<li><a href="/wiki/Tim_Cook" title="Tim Cook">Tim Cook</a> (CEO)</li>
+<li><a href="/wiki/James_A._Bell" title="James A. Bell">James A. Bell</a></li>
+<li><a href="/wiki/Alex_Gorsky" title="Alex Gorsky">Alex Gorsky</a></li>
+<li><a href="/wiki/Al_Gore" title="Al Gore">Al Gore</a></li>
+<li><a href="/wiki/Andrea_Jung" title="Andrea Jung">Andrea Jung</a></li>
+<li><a href="/wiki/Ronald_Sugar" title="Ronald Sugar">Ronald D. Sugar</a></li>
+<li><a href="/wiki/Susan_Wagner" title="Susan Wagner">Susan L. Wagner</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Former</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Mike_Markkula" title="Mike Markkula">Mike Markkula</a> (Chairman)</li>
+<li><a href="/wiki/John_Sculley" title="John Sculley">John Sculley</a> (Chairman)</li>
+<li><a href="/wiki/Steve_Jobs" title="Steve Jobs">Steve Jobs</a> (Chairman)</li>
+<li><a href="/wiki/Gil_Amelio" title="Gil Amelio">Gil Amelio</a></li>
+<li><a href="/wiki/Fred_D._Anderson" title="Fred D. Anderson">Fred D. Anderson</a></li>
+<li><a href="/wiki/William_Campbell_(business_executive)" title="William Campbell (business executive)">Bill Campbell</a></li>
+<li><a href="/wiki/Mickey_Drexler" title="Mickey Drexler">Mickey Drexler</a></li>
+<li><a href="/wiki/Al_Eisenstat" title="Al Eisenstat">Al Eisenstat</a></li>
+<li><a href="/wiki/Larry_Ellison" title="Larry Ellison">Larry Ellison</a></li>
+<li><a href="/wiki/Bob_Iger" title="Bob Iger">Robert A. Iger</a></li>
+<li><a href="/wiki/Delano_Lewis" title="Delano Lewis">Delano Lewis</a></li>
+<li><a href="/wiki/Arthur_Rock" title="Arthur Rock">Arthur Rock</a></li>
+<li><a href="/wiki/Eric_Schmidt" title="Eric Schmidt">Eric Schmidt</a></li>
+<li><a href="/wiki/Michael_Scott_(Apple)" title="Michael Scott (Apple)">Michael Scott</a></li>
+<li><a href="/wiki/Michael_Spindler" title="Michael Spindler">Michael Spindler</a></li>
+<li><a href="/wiki/Edgar_S._Woolard_Jr." title="Edgar S. Woolard Jr.">Edgar S. Woolard Jr.</a></li>
+<li><a href="/wiki/Jerry_York_(businessman)" title="Jerry York (businessman)">Jerry York</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Founders</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Steve_Jobs" title="Steve Jobs">Steve Jobs</a></li>
+<li><a href="/wiki/Steve_Wozniak" title="Steve Wozniak">Steve Wozniak</a></li>
+<li><a href="/wiki/Ronald_Wayne" title="Ronald Wayne">Ronald Wayne</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Apple_Inc._executives" title="Category:Apple Inc. executives">Executives</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Current</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Tim_Cook" title="Tim Cook">Tim Cook</a> (CEO)</li>
+<li><a href="/wiki/Jeff_Williams_(Apple)" title="Jeff Williams (Apple)">Jeff Williams</a> (COO)</li>
+<li><a href="/wiki/Luca_Maestri" title="Luca Maestri">Luca Maestri</a> (CFO)</li>
+<li><a href="/wiki/Katherine_L._Adams" title="Katherine L. Adams">Katherine Adams</a> (General Counsel)</li>
+<li><a href="/wiki/Eddy_Cue" title="Eddy Cue">Eddy Cue</a></li>
+<li><a href="/wiki/Craig_Federighi" title="Craig Federighi">Craig Federighi</a></li>
+<li><a href="/wiki/Isabel_Ge_Mahe" title="Isabel Ge Mahe">Isabel Ge Mahe</a></li>
+<li><a href="/wiki/John_Giannandrea" title="John Giannandrea">John Giannandrea</a></li>
+<li><a href="/wiki/Lisa_P._Jackson" title="Lisa P. Jackson">Lisa Jackson</a></li>
+<li><a href="/wiki/Greg_Joswiak" title="Greg Joswiak">Greg Joswiak</a></li>
+<li><a href="/wiki/Deirdre_O%27Brien" title="Deirdre O'Brien">Deirdre O'Brien</a></li>
+<li><a href="/wiki/Dan_Riccio" title="Dan Riccio">Dan Riccio</a></li>
+<li><a href="/wiki/Phil_Schiller" title="Phil Schiller">Phil Schiller</a></li>
+<li><a href="/wiki/Johny_Srouji" title="Johny Srouji">Johny Srouji</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Former</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Michael_Scott_(Apple)" title="Michael Scott (Apple)">Michael Scott</a> (CEO)</li>
+<li><a href="/wiki/Mike_Markkula" title="Mike Markkula">Mike Markkula</a> (CEO)</li>
+<li><a href="/wiki/John_Sculley" title="John Sculley">John Sculley</a> (CEO)</li>
+<li><a href="/wiki/Michael_Spindler" title="Michael Spindler">Michael Spindler</a> (CEO)</li>
+<li><a href="/wiki/Gil_Amelio" title="Gil Amelio">Gil Amelio</a> (CEO)</li>
+<li><a href="/wiki/Steve_Jobs" title="Steve Jobs">Steve Jobs</a> (CEO)</li>
+<li><a href="/wiki/Jony_Ive" title="Jony Ive">Jony Ive</a> (CDO)</li>
+<li><a href="/wiki/Angela_Ahrendts" title="Angela Ahrendts">Angela Ahrendts</a></li>
+<li><a href="/wiki/Fred_D._Anderson" title="Fred D. Anderson">Fred D. Anderson</a></li>
+<li><a href="/wiki/John_Browett" title="John Browett">John Browett</a></li>
+<li><a href="/wiki/Guerrino_De_Luca" title="Guerrino De Luca">Guerrino De Luca</a></li>
+<li><a href="/wiki/Paul_Deneve" title="Paul Deneve">Paul Deneve</a></li>
+<li><a href="/wiki/Al_Eisenstat" title="Al Eisenstat">Al Eisenstat</a></li>
+<li><a href="/wiki/Tony_Fadell" title="Tony Fadell">Tony Fadell</a></li>
+<li><a href="/wiki/Scott_Forstall" title="Scott Forstall">Scott Forstall</a></li>
+<li><a href="/wiki/Ellen_Hancock" title="Ellen Hancock">Ellen Hancock</a></li>
+<li><a href="/wiki/Nancy_R._Heinen" title="Nancy R. Heinen">Nancy R. Heinen</a></li>
+<li><a href="/wiki/Ron_Johnson_(businessman)" title="Ron Johnson (businessman)">Ron Johnson</a></li>
+<li><a href="/wiki/David_Nagel" title="David Nagel">David Nagel</a></li>
+<li><a href="/wiki/Peter_Oppenheimer" title="Peter Oppenheimer">Peter Oppenheimer</a></li>
+<li><a href="/wiki/Mark_Papermaster" title="Mark Papermaster">Mark Papermaster</a></li>
+<li><a href="/wiki/Jon_Rubinstein" title="Jon Rubinstein">Jon Rubinstein</a></li>
+<li><a href="/wiki/Bertrand_Serlet" title="Bertrand Serlet">Bertrand Serlet</a></li>
+<li><a href="/wiki/Bruce_Sewell" title="Bruce Sewell">Bruce Sewell</a></li>
+<li><a href="/wiki/Sina_Tamaddon" title="Sina Tamaddon">Sina Tamaddon</a></li>
+<li><a href="/wiki/Avie_Tevanian" title="Avie Tevanian">Avie Tevanian</a></li>
+<li><a href="/wiki/Steve_Wozniak" title="Steve Wozniak">Steve Wozniak</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Current</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Tim_Cook" title="Tim Cook">Tim Cook</a> (CEO)</li>
+<li><a href="/wiki/Jeff_Williams_(Apple)" title="Jeff Williams (Apple)">Jeff Williams</a> (COO)</li>
+<li><a href="/wiki/Luca_Maestri" title="Luca Maestri">Luca Maestri</a> (CFO)</li>
+<li><a href="/wiki/Katherine_L._Adams" title="Katherine L. Adams">Katherine Adams</a> (General Counsel)</li>
+<li><a href="/wiki/Eddy_Cue" title="Eddy Cue">Eddy Cue</a></li>
+<li><a href="/wiki/Craig_Federighi" title="Craig Federighi">Craig Federighi</a></li>
+<li><a href="/wiki/Isabel_Ge_Mahe" title="Isabel Ge Mahe">Isabel Ge Mahe</a></li>
+<li><a href="/wiki/John_Giannandrea" title="John Giannandrea">John Giannandrea</a></li>
+<li><a href="/wiki/Lisa_P._Jackson" title="Lisa P. Jackson">Lisa Jackson</a></li>
+<li><a href="/wiki/Greg_Joswiak" title="Greg Joswiak">Greg Joswiak</a></li>
+<li><a href="/wiki/Deirdre_O%27Brien" title="Deirdre O'Brien">Deirdre O'Brien</a></li>
+<li><a href="/wiki/Dan_Riccio" title="Dan Riccio">Dan Riccio</a></li>
+<li><a href="/wiki/Phil_Schiller" title="Phil Schiller">Phil Schiller</a></li>
+<li><a href="/wiki/Johny_Srouji" title="Johny Srouji">Johny Srouji</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Former</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Michael_Scott_(Apple)" title="Michael Scott (Apple)">Michael Scott</a> (CEO)</li>
+<li><a href="/wiki/Mike_Markkula" title="Mike Markkula">Mike Markkula</a> (CEO)</li>
+<li><a href="/wiki/John_Sculley" title="John Sculley">John Sculley</a> (CEO)</li>
+<li><a href="/wiki/Michael_Spindler" title="Michael Spindler">Michael Spindler</a> (CEO)</li>
+<li><a href="/wiki/Gil_Amelio" title="Gil Amelio">Gil Amelio</a> (CEO)</li>
+<li><a href="/wiki/Steve_Jobs" title="Steve Jobs">Steve Jobs</a> (CEO)</li>
+<li><a href="/wiki/Jony_Ive" title="Jony Ive">Jony Ive</a> (CDO)</li>
+<li><a href="/wiki/Angela_Ahrendts" title="Angela Ahrendts">Angela Ahrendts</a></li>
+<li><a href="/wiki/Fred_D._Anderson" title="Fred D. Anderson">Fred D. Anderson</a></li>
+<li><a href="/wiki/John_Browett" title="John Browett">John Browett</a></li>
+<li><a href="/wiki/Guerrino_De_Luca" title="Guerrino De Luca">Guerrino De Luca</a></li>
+<li><a href="/wiki/Paul_Deneve" title="Paul Deneve">Paul Deneve</a></li>
+<li><a href="/wiki/Al_Eisenstat" title="Al Eisenstat">Al Eisenstat</a></li>
+<li><a href="/wiki/Tony_Fadell" title="Tony Fadell">Tony Fadell</a></li>
+<li><a href="/wiki/Scott_Forstall" title="Scott Forstall">Scott Forstall</a></li>
+<li><a href="/wiki/Ellen_Hancock" title="Ellen Hancock">Ellen Hancock</a></li>
+<li><a href="/wiki/Nancy_R._Heinen" title="Nancy R. Heinen">Nancy R. Heinen</a></li>
+<li><a href="/wiki/Ron_Johnson_(businessman)" title="Ron Johnson (businessman)">Ron Johnson</a></li>
+<li><a href="/wiki/David_Nagel" title="David Nagel">David Nagel</a></li>
+<li><a href="/wiki/Peter_Oppenheimer" title="Peter Oppenheimer">Peter Oppenheimer</a></li>
+<li><a href="/wiki/Mark_Papermaster" title="Mark Papermaster">Mark Papermaster</a></li>
+<li><a href="/wiki/Jon_Rubinstein" title="Jon Rubinstein">Jon Rubinstein</a></li>
+<li><a href="/wiki/Bertrand_Serlet" title="Bertrand Serlet">Bertrand Serlet</a></li>
+<li><a href="/wiki/Bruce_Sewell" title="Bruce Sewell">Bruce Sewell</a></li>
+<li><a href="/wiki/Sina_Tamaddon" title="Sina Tamaddon">Sina Tamaddon</a></li>
+<li><a href="/wiki/Avie_Tevanian" title="Avie Tevanian">Avie Tevanian</a></li>
+<li><a href="/wiki/Steve_Wozniak" title="Steve Wozniak">Steve Wozniak</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Directors_of_Apple_Inc." title="Category:Directors of Apple Inc.">Board of<br/>directors</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Current</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Arthur_D._Levinson" title="Arthur D. Levinson">Arthur D. Levinson</a> (Chairman)</li>
+<li><a href="/wiki/Tim_Cook" title="Tim Cook">Tim Cook</a> (CEO)</li>
+<li><a href="/wiki/James_A._Bell" title="James A. Bell">James A. Bell</a></li>
+<li><a href="/wiki/Alex_Gorsky" title="Alex Gorsky">Alex Gorsky</a></li>
+<li><a href="/wiki/Al_Gore" title="Al Gore">Al Gore</a></li>
+<li><a href="/wiki/Andrea_Jung" title="Andrea Jung">Andrea Jung</a></li>
+<li><a href="/wiki/Ronald_Sugar" title="Ronald Sugar">Ronald D. Sugar</a></li>
+<li><a href="/wiki/Susan_Wagner" title="Susan Wagner">Susan L. Wagner</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Former</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Mike_Markkula" title="Mike Markkula">Mike Markkula</a> (Chairman)</li>
+<li><a href="/wiki/John_Sculley" title="John Sculley">John Sculley</a> (Chairman)</li>
+<li><a href="/wiki/Steve_Jobs" title="Steve Jobs">Steve Jobs</a> (Chairman)</li>
+<li><a href="/wiki/Gil_Amelio" title="Gil Amelio">Gil Amelio</a></li>
+<li><a href="/wiki/Fred_D._Anderson" title="Fred D. Anderson">Fred D. Anderson</a></li>
+<li><a href="/wiki/William_Campbell_(business_executive)" title="William Campbell (business executive)">Bill Campbell</a></li>
+<li><a href="/wiki/Mickey_Drexler" title="Mickey Drexler">Mickey Drexler</a></li>
+<li><a href="/wiki/Al_Eisenstat" title="Al Eisenstat">Al Eisenstat</a></li>
+<li><a href="/wiki/Larry_Ellison" title="Larry Ellison">Larry Ellison</a></li>
+<li><a href="/wiki/Bob_Iger" title="Bob Iger">Robert A. Iger</a></li>
+<li><a href="/wiki/Delano_Lewis" title="Delano Lewis">Delano Lewis</a></li>
+<li><a href="/wiki/Arthur_Rock" title="Arthur Rock">Arthur Rock</a></li>
+<li><a href="/wiki/Eric_Schmidt" title="Eric Schmidt">Eric Schmidt</a></li>
+<li><a href="/wiki/Michael_Scott_(Apple)" title="Michael Scott (Apple)">Michael Scott</a></li>
+<li><a href="/wiki/Michael_Spindler" title="Michael Spindler">Michael Spindler</a></li>
+<li><a href="/wiki/Edgar_S._Woolard_Jr." title="Edgar S. Woolard Jr.">Edgar S. Woolard Jr.</a></li>
+<li><a href="/wiki/Jerry_York_(businessman)" title="Jerry York (businessman)">Jerry York</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Current</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Arthur_D._Levinson" title="Arthur D. Levinson">Arthur D. Levinson</a> (Chairman)</li>
+<li><a href="/wiki/Tim_Cook" title="Tim Cook">Tim Cook</a> (CEO)</li>
+<li><a href="/wiki/James_A._Bell" title="James A. Bell">James A. Bell</a></li>
+<li><a href="/wiki/Alex_Gorsky" title="Alex Gorsky">Alex Gorsky</a></li>
+<li><a href="/wiki/Al_Gore" title="Al Gore">Al Gore</a></li>
+<li><a href="/wiki/Andrea_Jung" title="Andrea Jung">Andrea Jung</a></li>
+<li><a href="/wiki/Ronald_Sugar" title="Ronald Sugar">Ronald D. Sugar</a></li>
+<li><a href="/wiki/Susan_Wagner" title="Susan Wagner">Susan L. Wagner</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Former</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Mike_Markkula" title="Mike Markkula">Mike Markkula</a> (Chairman)</li>
+<li><a href="/wiki/John_Sculley" title="John Sculley">John Sculley</a> (Chairman)</li>
+<li><a href="/wiki/Steve_Jobs" title="Steve Jobs">Steve Jobs</a> (Chairman)</li>
+<li><a href="/wiki/Gil_Amelio" title="Gil Amelio">Gil Amelio</a></li>
+<li><a href="/wiki/Fred_D._Anderson" title="Fred D. Anderson">Fred D. Anderson</a></li>
+<li><a href="/wiki/William_Campbell_(business_executive)" title="William Campbell (business executive)">Bill Campbell</a></li>
+<li><a href="/wiki/Mickey_Drexler" title="Mickey Drexler">Mickey Drexler</a></li>
+<li><a href="/wiki/Al_Eisenstat" title="Al Eisenstat">Al Eisenstat</a></li>
+<li><a href="/wiki/Larry_Ellison" title="Larry Ellison">Larry Ellison</a></li>
+<li><a href="/wiki/Bob_Iger" title="Bob Iger">Robert A. Iger</a></li>
+<li><a href="/wiki/Delano_Lewis" title="Delano Lewis">Delano Lewis</a></li>
+<li><a href="/wiki/Arthur_Rock" title="Arthur Rock">Arthur Rock</a></li>
+<li><a href="/wiki/Eric_Schmidt" title="Eric Schmidt">Eric Schmidt</a></li>
+<li><a href="/wiki/Michael_Scott_(Apple)" title="Michael Scott (Apple)">Michael Scott</a></li>
+<li><a href="/wiki/Michael_Spindler" title="Michael Spindler">Michael Spindler</a></li>
+<li><a href="/wiki/Edgar_S._Woolard_Jr." title="Edgar S. Woolard Jr.">Edgar S. Woolard Jr.</a></li>
+<li><a href="/wiki/Jerry_York_(businessman)" title="Jerry York (businessman)">Jerry York</a></li></ul>
+</div></td></tr>
+<tr><th class="navbox-group" scope="row" style="width:1%">Founders</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Steve_Jobs" title="Steve Jobs">Steve Jobs</a></li>
+<li><a href="/wiki/Steve_Wozniak" title="Steve Wozniak">Steve Wozniak</a></li>
+<li><a href="/wiki/Ronald_Wayne" title="Ronald Wayne">Ronald Wayne</a></li></ul>
+</div></td></tr>
+<tr><td class="navbox-abovebelow" colspan="2"><div><div class="hlist hlist-separated"><ul><li><i>Italics</i> indicate <a href="/wiki/Category:Discontinued_products" title="Category:Discontinued products">discontinued products, services</a>, or <a href="/wiki/Category:Defunct_computer_companies_of_the_United_States" title="Category:Defunct computer companies of the United States">defunct companies</a>.</li></ul></div>
+<ul><li><img alt="" class="noviewer" data-file-height="185" data-file-width="180" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Apple_Inc." title="Category:Apple Inc.">Category</a></li>
+<li><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Apple_Inc." title="commons:Category:Apple Inc.">Commons</a></li></ul></div></td></tr>
+<tr><th class="navbox-group" id="Authority_control:_National_libraries_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q2766#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control: National libraries</a> <a href="https://www.wikidata.org/wiki/Q2766#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" class="noprint" data-file-height="20" data-file-width="20" decoding="async" height="10" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb156082549" rel="nofollow">France</a> <a class="external text" href="https://data.bnf.fr/ark:/12148/cb156082549" rel="nofollow">(data)</a></span></li>
+<li><span class="uid"><a class="external text" href="https://d-nb.info/gnd/7596595-1" rel="nofollow">Germany</a></span></li>
+<li><span class="uid"><a class="external text" href="http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007539925805171" rel="nofollow">Israel</a></span></li>
+<li><span class="uid"><a class="external text" href="https://id.loc.gov/authorities/subjects/sh2007007371" rel="nofollow">United States</a></span></li>
+<li><span class="uid"><a class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph556425&amp;CON_LNG=ENG" rel="nofollow">Czech Republic</a></span></li></ul>
+</div></td></tr>

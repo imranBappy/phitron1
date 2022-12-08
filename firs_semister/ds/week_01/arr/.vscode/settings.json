@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+  
+        "code-runner.executorMap": {
+            "c": "gcc $fileName -o out && ./out",
+            "cpp": "g++ $fileName -o out && ./out < input.txt> output.txt",
+        },
+        
+   
+}

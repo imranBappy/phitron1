@@ -1,0 +1,1 @@
+{'student_name': 'gjhjg', 'mark': 7866, 'student_id': 4291}|{'student_name': 'gjhjg', 'mark': 7866, 'student_id': 5523}|{'student_name': 'gjhjg', 'mark': 7866, 'student_id': 8694}, {'student_name': 'Bappy', 'mark': 99, 'student_id': 6001}, {'student_name': 'Bappy', 'mark': 99, 'student_id': 5243}, {'student_name': 'Bappy', 'mark': 99, 'student_id': 5965}

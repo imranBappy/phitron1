@@ -1,0 +1,310 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 3.82.90
+# Built for i686-pc-mingw32
+# Copyright (C) 1988-2012 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+ 
+
+# Make data base, printed on Sat Jul 16 09:15:20 2022
+
+# Variables
+
+# automatic
+<D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
+# automatic
+?F = $(notdir $?)
+# default
+.SHELLFLAGS := -c
+# makefile
+MAKEFLAGS = Rrqp
+# automatic
+?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
+# automatic
+@D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
+# environment
+HOMEDRIVE = C:
+# automatic
+@F = $(notdir $@)
+# automatic
+^D = $(patsubst %/,%,$(patsubst %\,%,$(dir $^)))
+# makefile
+CURDIR := f:/courses/phitron/firs_semister/ 
+ds/week_01/arrStr
+# default
+SHELL := sh.exe
+# environment
+WINDIR = C:\Windows
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# environment
+VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
+# environment
+ONEDRIVE = C:\Users\Imran\OneDrive
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+# makefile
+MAKEFILE_LIST := 
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
+TMP = C:\Users\Imran\AppData\Local\Temp
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PROGRAMDATA = C:\ProgramData
+# environment
+VSCODE_CWD = C:\Users\Imran\AppData\Local\Programs\Microsoft VS Code
+# environment
+PATH = C:\Python310\Scripts\;C:\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\CodeBlocks\MinGW\bin;F:\PHP\learn\php;F:\Composer;C:\xampp\php;c:\xampp\mysql\bin\mysqld.exe;C:\MinGW\bin;C:\Program Files\jdk-18.0.1.1\bin;;C:\Program Files\VSCodium\bin;C:\Program Files\Go\bin;C:\Users\Imran\AppData\Local\Microsoft\WindowsApps;C:\Users\Imran\AppData\Roaming\npm;C:\Users\Imran\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Imran\AppData\Local\GitHubDesktop\bin;C:\Program Files\CodeBlocks\MinGW\bin;C:\Users\Imran\AppData\Roaming\Composer\vendor\bin;C:\tools\mysql\current\bin;C:\xampp\php;c:\xampp\mysql\bin\mysqld.exe;C:\MinGW\bin;C:\Program Files\jdk-18.0.1.1\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2022.1.1\bin;;C:\Users\Imran\go\bin
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# environment
+CHOCOLATEYLASTPATHUPDATE = 132945176289955508
+# environment
+PROCESSOR_ARCHITECTURE = x86
+# environment
+USERPROFILE = C:\Users\Imran
+# environment
+CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+GOPATH = C:\Users\Imran\go
+# environment
+NUMBER_OF_PROCESSORS = 12
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell archives jobserver
+# environment
+INTELLIJ IDEA = C:\Program Files\JetBrains\IntelliJ IDEA 2022.1.1\bin;
+# automatic
+%F = $(notdir $%)
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_9672_RDBHJIVYXYMJFRAU
+# environment
+COMPUTERNAME = PRO
+# environment
+PROGRAMFILES = C:\Program Files (x86)
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERNAME = Imran
+# environment
+PUBLIC = C:\Users\Public
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+CHOCOLATEYTOOLSLOCATION = C:\tools
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\Imran\AppData\Roaming\Code\CachedData\b06ae3b2d2dbfe28bca3134cc6be65935cdfea6a
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# environment
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# environment
+LOGONSERVER = \\PRO
+# environment
+ONEDRIVECONSUMER = C:\Users\Imran\OneDrive
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# environment
+USERDOMAIN = PRO
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+MAKECMDGOALS := all
+# default
+MAKE_VERSION := 3.82.90
+# makefile
+.DEFAULT_GOAL := 
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# automatic
+%D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
+# environment
+LOCALAPPDATA = C:\Users\Imran\AppData\Local
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := make.exe
+# environment
+PROCESSOR_ARCHITEW6432 = AMD64
+# default
+.VARIABLES := 
+# automatic
+*F = $(notdir $*)
+# environment
+PROCESSOR_IDENTIFIER = AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+# environment
+OS = Windows_NT
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\574a36d01f115e05fad6b941ae22df01-1.69.1-main-sock
+# environment
+HOMEPATH = \Users\Imran
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+PROMPT = $P$G
+# environment
+MFLAGS = -Rrqp
+# automatic
+*D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
+# environment
+SYSTEMROOT = C:\Windows
+# automatic
++D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
+# automatic
++F = $(notdir $+)
+# environment
+APPDATA = C:\Users\Imran\AppData\Roaming
+# environment
+TEMP = C:\Users\Imran\AppData\Local\Temp
+# environment
+COMSPEC = C:\Windows\system32\cmd.exe
+# default
+MAKEFILES := 
+# automatic
+<F = $(notdir $<)
+# environment
+LC_ALL = C
+# automatic
+^F = $(notdir $^)
+# default
+SUFFIXES := 
+# environment
+SYSTEMDRIVE = C:
+# environment
+SESSIONNAME = Console
+# environment
+PROCESSOR_REVISION = 5000
+# default
+.INCLUDE_DIRS = C:/MinGW/include
+# default
+.RECIPEPREFIX := 
+# environment
+LANG = C
+# environment
+PROCESSOR_LEVEL = 25
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# environment
+VSCODE_PID = 9672
+# environment
+USERDOMAIN_ROAMINGPROFILE = PRO
+# variable set hash-table stats:
+# Load=93/1024=9%, Rehash=0, Collisions=11/109=10%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# : could not be stat'd.
+# C:\xampp\php (key C:/xampp/php, mtime 1650817471): 64 files, no impossibilities.
+# C:\Users\Imran\go\bin: could not be stat'd.
+# C:\Windows\System32\WindowsPowerShell\v1.0\ (key C:/Windows/System32/WindowsPowerShell/v1.0/, mtime 1633528630): 30 files, no impossibilities.
+# F:\Composer: could not be stat'd.
+# . (key f:/courses/phitron/firs_semister/ds/week_01/arrStr, mtime 1657941247): 6 files, no impossibilities.
+# C:\Python310\ (key C:/Python310/, mtime 1649876607): 18 files, no impossibilities.
+# C:\Program Files\Git\cmd (key C:/Program Files/Git/cmd, mtime 1649877588): 8 files, no impossibilities.
+# C:\Users\Imran\AppData\Roaming\npm (key C:/Users/Imran/AppData/Roaming/npm, mtime 1656154385): 24 files, no impossibilities.
+# C:\Windows\System32\OpenSSH\: could not be stat'd.
+# C:\Python310\Scripts\ (key C:/Python310/Scripts/, mtime 1649876607): 5 files, no impossibilities.
+# C:\MinGW\bin (key C:/MinGW/bin, mtime 1656449439): 72 files, no impossibilities.
+# C:\Users\Imran\AppData\Roaming\Composer\vendor\bin: could not be stat'd.
+# C:\Program Files\jdk-18.0.1.1\bin (key C:/Program Files/jdk-18.0.1.1/bin, mtime 1652728915): 124 files, no impossibilities.
+# C:\Users\Imran\AppData\Local\Microsoft\WindowsApps (key C:/Users/Imran/AppData/Local/Microsoft/WindowsApps, mtime 1656496188): 17 files, no impossibilities.
+# c:\xampp\mysql\bin\mysqld.e 
+xe (key c:/xampp/mysql/bin/mysqld.exe, mtime 1644526394): could not be opened.
+# C:\ProgramData\chocolatey\bin (key C:/ProgramData/chocolatey/bin, mtime 1649876406): 11 files, no impossibilities.
+# C:\Windows (key C:/Windows, mtime 1655292468): 110 files, no impossibilities.
+# C:\Program Files\Go\bin (key C:/Program Files/Go/bin, mtime 1655924928): 4 files, no impossibilities.
+# C:\Users\Imran\AppData\Local\GitHubDesktop\bin (key C:/Users/Imran/AppData/Local/GitHubDesktop/bin, mtime 1650789844): 4 files, no impossibilities.
+# C:\Users\Imran\AppData\Local\Programs\Microsoft VS Code\bin (key C:/Users/Imran/AppData/Local/Programs/Microsoft VS Code/bin, mtime 1657730911): 4 files, no impossibilities.
+# F:\PHP\learn\php (key F:/PHP/learn/php, mtime 1650817274): 3 files, no impossibilities.
+# C:\tools\mysql\current\bin (key C:/tools/mysql/current/bin, mtime 1650044286): 45 files, no impossibilities.
+# C:\Windows\System32\Wbem (key C:/Windows/System32/Wbem, mtime 1655292469): 170 files, no impossibilities.
+# C:\Program Files\JetBrains\IntelliJ IDEA 2022.1.1\bin (key C:/Program Files/JetBrains/IntelliJ IDEA 2022.1.1/bin, mtime 1653161861): 31 files, no impossibilities.
+# C:\Program Files\CodeBlocks\MinGW\bin (key C:/Program Files/CodeBlocks/MinGW/bin, mtime 1649929980): 58 files, no impossibilities.
+# C:\Program Files\nodejs\ (key C:/Program Files/nodejs/, mtime 1649876361): 13 files, no impossibilities.
+# C:\Windows\system32 (key C:/Windows/system32, mtime 1657941267): 2958 files, no impossibilities.
+# C:\Program Files\VSCodium\bin (key C:/Program Files/VSCodium/bin, mtime 1655117421): 4 files, no impossibilities.
+
+# 3783 files, no impossibilities in 29 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+Makefile:
+#  Impli 
+make.exe: *** No rule to make target 'all'.  Stop.
+
+cit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# Not a target:
+makefile:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+GNUmakefile:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# files hash-table stats:
+# Load=6/1024=1%, Rehash=0, Collisions=0/15=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 7 (5) / strings = 3711 / storage = 56318 B / avg = 15 B
+# current buf: size = 8174 B / used = 7345 B / count = 449 / avg = 16 B
+# other used: total = 48144 B / count = 3262 / avg = 14 B
+# other free: total = 71 B / max = 28 B / min = 4 B / avg = 11 B
+
+# strcache performance: lookups = 3820 / hit rate = 2%
+# hash-table stats:
+# Load=3711/8192=45%, Rehash=0, Collisions=1420/3820=37%
+# Finished Make data base on Sat Jul 16 09:15:20 2022
+
+ 

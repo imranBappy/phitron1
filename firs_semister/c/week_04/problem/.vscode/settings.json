@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "string.h": "c"
+    },
+    "liveServer.settings.port": 5501
+}

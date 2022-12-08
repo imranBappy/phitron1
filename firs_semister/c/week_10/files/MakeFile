@@ -1,0 +1,4 @@
+# program file
+
+all:
+	gcc fileProgram.c -o fileProgram && ./fileProgram

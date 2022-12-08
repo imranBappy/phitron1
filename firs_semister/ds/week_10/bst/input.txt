@@ -1,0 +1,14 @@
+11
+11 5 9 43 34 1 2 7 8 6 21
+
+10 5 17 3 1 4 12 19
+
+
+void print_inOrder(Node *root)
+    {
+        if (root == NULL)
+            return;
+        print_inOrder(root->left);
+        printf("%d -> ", root->data);
+        print_inOrder(root->right);
+    }

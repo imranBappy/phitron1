@@ -1,0 +1,56 @@
+{
+  "files.associations": {
+    "xstring": "cpp",
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "regex": "cpp",
+    "xlocale": "cpp",
+    "xutility": "cpp",
+    "utility": "cpp",
+    "array": "cpp",
+    "vector": "cpp",
+    "forward_list": "cpp",
+    "list": "cpp",
+    "deque": "cpp",
+    "map": "cpp",
+    "unordered_map": "cpp",
+    "xhash": "cpp",
+    "xtree": "cpp",
+    "random": "cpp",
+    "algorithm": "cpp",
+    "atomic": "cpp",
+    "stack": "cpp",
+    "string": "cpp",
+    "string_view": "cpp",
+    "new": "cpp"
+  },
+  "C_Cpp_Runner.cCompilerPath": "gcc",
+  "C_Cpp_Runner.cppCompilerPath": "g++",
+  "C_Cpp_Runner.debuggerPath": "gdb",
+  "C_Cpp_Runner.cStandard": "",
+  "C_Cpp_Runner.cppStandard": "",
+  "C_Cpp_Runner.msvcBatchPath": "",
+  "C_Cpp_Runner.useMsvc": false,
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic"
+  ],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false,
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.includePaths": [],
+  "C_Cpp_Runner.includeSearch": [
+    "*",
+    "**/*"
+  ],
+  "C_Cpp_Runner.excludeSearch": [
+    "**/build",
+    "**/build/**",
+    "**/.*",
+    "**/.*/**",
+    "**/.vscode",
+    "**/.vscode/**"
+  ]
+}

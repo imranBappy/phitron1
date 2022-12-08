@@ -1,0 +1,5 @@
+oop good understanding
+default(){ constructor
+
+}
+Person p // is it called default constructor

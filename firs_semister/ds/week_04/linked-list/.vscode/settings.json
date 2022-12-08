@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "xutility": "cpp",
+        "iostream": "cpp",
+        "chrono": "cpp",
+        "complex": "cpp",
+        "functional": "cpp",
+        "optional": "cpp",
+        "regex": "cpp",
+        "system_error": "cpp",
+        "type_traits": "cpp",
+        "xlocnum": "cpp",
+        "xtr1common": "cpp"
+    }
+}

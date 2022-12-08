@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "random": "cpp",
+        "utility": "cpp",
+        "algorithm": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "valarray": "cpp",
+        "functional": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

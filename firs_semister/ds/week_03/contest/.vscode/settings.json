@@ -1,0 +1,37 @@
+{
+    "code-runner.executorMap": {
+        "javascript": "node $fileName ",
+        "php": "php $fileName",
+        "python": "python",
+        "perl": "perl",
+        "ruby": "C:\\Ruby23-x64\\bin\\ruby.exe",
+        "go": "go run",
+        "html": "\"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\"",
+        "c": "gcc $fileName -o out && ./out",
+        "cpp": "g++ $fileName -o out && ./out < input.txt >output.txt",
+        "java": "java $fileName"
+    },
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "array": "cpp",
+        "chrono": "cpp",
+        "deque": "cpp",
+        "format": "cpp",
+        "forward_list": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp",
+        "vector": "cpp",
+        "xhash": "cpp",
+        "xiosbase": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "random": "cpp",
+        "queue": "cpp",
+        "stack": "cpp",
+        "ios": "cpp"
+    }
+}

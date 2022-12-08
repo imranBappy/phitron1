@@ -1,0 +1,14 @@
+{
+    "code-runner.executorMap": {
+        "javascript": "node $fileName ",
+        "php": "php $fileName",
+        "python": "python",
+        "perl": "perl",
+        "ruby": "C:\\Ruby23-x64\\bin\\ruby.exe",
+        "go": "go run",
+        "html": "\"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\"",
+        "c": "gcc $fileName -o out && ./out",
+        "cpp": "g++ $fileName -o out && ./out < input.txt",
+        "java": "java $fileName"
+    }
+}

@@ -1,0 +1,1 @@
+imran@gmail.com hashlib.pbkdf2_hmac(self.__salt, pwd.encode(), self.__salt.encode())

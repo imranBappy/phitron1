@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:api}/todo_app.db",
+            "name": "todo_app"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:api}/todo_app.db",
+            "name": "todo_app"
+        }
+    ]
+}

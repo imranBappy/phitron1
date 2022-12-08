@@ -1,0 +1,14 @@
+{
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "c"
+    ],
+    "files.associations": {
+        "string.h": "c"
+    }
+}

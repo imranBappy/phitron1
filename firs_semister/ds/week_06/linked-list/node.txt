@@ -1,0 +1,25 @@
+linked list problem:
+1, compare to list
+2, marge to list,
+3, sorting, other,
+
+string:
+    compare to string
+    other
+
+array:
+    2d, 3d array
+    array addess
+
+time complexity:
+    conceptual section
+    time complexity
+
+math:
+    discrete math
+    matrix math problem
+    class 4, 6
+
+problem:
+    52 programming problem solved
+
